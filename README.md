@@ -37,11 +37,6 @@ Ausdrucken geht am besten auf A6 Halbkarton Karten (z.B. aus der Migros Papeteri
 
 Rückseite ist im Ordner: Back
 
-A7 Vorlage gemacht:
-* http://gustav-mueller.bürobest.de/de/ordnen-registrieren/karteien-zubehoer/karteikarten/exacompta-karteikarte-din-a7-144074701.html
-* https://www.naund-versand.de/schule-malen/karteikarten-a7-100-stueck-brunnen/a-2257/
-(die ersten 2 Links die ich fand, selber hab ich das im Müller Aarau gekauft)
-
 
 Möge dieses Repo unter Creative Commons by-nc-sa stehen + mögen die Lizenzbedingungen für den Fall dass damit Kinder oder Jüngere geschützt werden können auch umgangen werden...
 
