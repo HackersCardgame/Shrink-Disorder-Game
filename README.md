@@ -2,6 +2,7 @@
 
  * (klassische) Psychiater
  * Film Psychiater
+ * Archetypen
  * Technologie Karten
  * Methoden Karten
  * Algorithmen Karten
@@ -45,13 +46,5 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 und ja so far, es ist zur Zeit noch ein Prototyp und scheinbar will da "zufällig" niemand mitmachen => DSM <=> MKULTRA ist somit ev recht mächtig
 
-Das Projekt ist für den Moment mal auf http://marclandolt.ch/PsychiaterQuartettKarten/description.html zuhause...
+Das Projekt ist für den Moment mal auf http://marclandolt.ch/PsychiaterQuartettKarten/description.html / bzw auf http://psychiatrie-leaks.ch/Shrink-Disorder-Game zuhause...
 
-Möge dieses Repo unter Creative Commons by-nc-sa stehen + mögen die Lizenzbedingungen für den Fall dass damit Kinder oder Jüngere geschützt werden können auch umgangen werden...
-
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-
-und ja so far, es ist zur Zeit noch ein Prototyp und scheinbar will da "zufällig" niemand mitmachen => DSM <=> MKULTRA ist somit ev recht mächtig
-
-Das Projekt ist für den Moment mal auf http://marclandolt.ch/PsychiaterQuartettKarten/description.html zuhause...
