@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="Rueckseite.svg">
+   sodipodi:docname="back.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -169,7 +169,7 @@
          style="text-align:center;text-anchor:middle;fill:#0000ff">http://psychiatrie-leaks.ch/Shrink-Disorder-Game/</tspan></text>
     <image
        y="694.92761"
-       x="17.331999"
+       x="19.331999"
        id="image3034"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAqhJREFU
 eJzt3ctuxCAMheG06vu/crtqJwusmrEP4Yj/W5PLjIUFwSHXBQAAAAAAAAB+Pt445rv9LnL3cb9u
@@ -190,29 +190,8 @@ AAAAAElFTkSuQmCC
        width="111" />
     <image
        y="696.3418"
-       x="269.76913"
+       x="271.76913"
        id="image3045"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAqhJREFU
-eJzt3ctuxCAMheG06vu/crtqJwusmrEP4Yj/W5PLjIUFwSHXBQAAAAAAAAB+Pt445rv9LnL3cb9u
-1D5zb/djZ9vPXmvWVDw+BTeARQiesa/i8e+k3V9R2qmko0yKy6Tf6NioveJ/+Bc9zxjBM1ZNm3eV
-kVtX+7vZ0WlXSlT8D0P0PGMEz1hn2uwSTaIVKTQzYW9JcQr0PGMEz9iOaTMzea+ku0wKtUDPM0bw
-jHWmTUXaqSzfZNpnUvHKBwtT6HnGCJ6xatpUrCYrZFJiJYU+8j/Q84wRPGPvpE27yew1P8HPePx/
-oOcZI3jGOus2u0ZoipXrSGVi3vXQ4O30S88zRvCMVdPmytLxp0Z3Xb+r0maInmeM4BmrpiJFSukq
-OorMjpYzbSoTf0abJyJ4xlQjuErqe3zye+nv/460eSKCZ0w1Se96aXH2utdkm0r76Ni7rlrTIXqe
-MYJnbEUBUqUcPdM+aqMuHFLczxR6njGCZ0y1kl45T3ROxQq+up4zum6E0eYpCJ6xFQVIndfuOL96
-hyVFyh2i5xkjeMZUG8cp9s+cnRRnzjN7D1u9z07PM0bwjK0uQFJMbDMUW38oHlYwST8FwTO2YiW9
-K7WurOdUT/BZST8dwTO2um6z66XLlcsx6mehmfZD9DxjBM/Y6pcrM3aYvCu2+6AACS8Ez9jju/gM
-qOs81duMKN7ZH6LnGSN4xjoLkCoUW4KoV/O7HkRQgHQigmdsxy9XqifOs9fKHJvBJB0vBM/Y7l+u
-jM7v8kyVjeMwRvCM7f4Jtig9qrdKjs4ZHbty1PqHnmeM4BnbMW0qaj6vRBt1WXuE0eaJCJ6xHb9c
-WZkIZ9pkUqJi2Ss6P6PNExE8Y05frlTssRkde/fUW0v/oucZI3gAAAAAAAAAgKV+AK5wrMfAmP6a
-AAAAAElFTkSuQmCC
-"
-       height="111"
-       width="111" />
-    <image
-       y="895.03882"
-       x="143.19701"
-       id="image3056"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAqhJREFU
 eJzt3ctuxCAMheG06vu/crtqJwusmrEP4Yj/W5PLjIUFwSHXBQAAAAAAAAB+Pt445rv9LnL3cb9u
 1D5zb/djZ9vPXmvWVDw+BTeARQiesa/i8e+k3V9R2qmko0yKy6Tf6NioveJ/+Bc9zxjBM1ZNm3eV
@@ -250,10 +229,45 @@ AAAAAElFTkSuQmCC
          id="tspan2998-5-5"
          style="text-align:center;text-anchor:middle;fill:#0000ff">http://psychiatrie-leaks.ch/Shrink-Disorder-Game/</tspan></text>
     <image
-       y="886.55353"
-       x="397.75543"
-       id="image3056-3"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAqhJREFU eJzt3ctuxCAMheG06vu/crtqJwusmrEP4Yj/W5PLjIUFwSHXBQAAAAAAAAB+Pt445rv9LnL3cb9u 1D5zb/djZ9vPXmvWVDw+BTeARQiesa/i8e+k3V9R2qmko0yKy6Tf6NioveJ/+Bc9zxjBM1ZNm3eV kVtX+7vZ0WlXSlT8D0P0PGMEz1hn2uwSTaIVKTQzYW9JcQr0PGMEz9iOaTMzea+ku0wKtUDPM0bw jHWmTUXaqSzfZNpnUvHKBwtT6HnGCJ6xatpUrCYrZFJiJYU+8j/Q84wRPGPvpE27yew1P8HPePx/ oOcZI3jGOus2u0ZoipXrSGVi3vXQ4O30S88zRvCMVdPmytLxp0Z3Xb+r0maInmeM4BmrpiJFSukq OorMjpYzbSoTf0abJyJ4xlQjuErqe3zye+nv/460eSKCZ0w1Se96aXH2utdkm0r76Ni7rlrTIXqe MYJnbEUBUqUcPdM+aqMuHFLczxR6njGCZ0y1kl45T3ROxQq+up4zum6E0eYpCJ6xFQVIndfuOL96 hyVFyh2i5xkjeMZUG8cp9s+cnRRnzjN7D1u9z07PM0bwjK0uQFJMbDMUW38oHlYwST8FwTO2YiW9 K7WurOdUT/BZST8dwTO2um6z66XLlcsx6mehmfZD9DxjBM/Y6pcrM3aYvCu2+6AACS8Ez9jju/gM qOs81duMKN7ZH6LnGSN4xjoLkCoUW4KoV/O7HkRQgHQigmdsxy9XqifOs9fKHJvBJB0vBM/Y7l+u jM7v8kyVjeMwRvCM7f4Jtig9qrdKjs4ZHbty1PqHnmeM4BnbMW0qaj6vRBt1WXuE0eaJCJ6xHb9c WZkIZ9pkUqJi2Ss6P6PNExE8Y05frlTssRkde/fUW0v/oucZI3gAAAAAAAAAgKV+AK5wrMfAmP6a AAAAAElFTkSuQmCC "
+       y="885.84644"
+       x="131.17619"
+       id="image3167"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAqRJREFU
+eJzt3dlOxDAMheEB8f6vDFdAL2qNHS/JUf/vsuomrJgsbub1AgAAAAAAAAA9HwvXfJe/he89rs/9
+MI577pl5f89zM0Lx+Gx4AQwheMK+ktevpN1fVtqx0mPmHTz3jKbl6DtYltMvLU8YwROWTZtXVenF
+Oqcq3VnnR59r6U6zf2h5wgiesMq0WSWTdqLXRnu2R6HlCSN4wk5Mm9G0Fk2h0eOeZ21ByxNG8IRV
+ps2qlOJJX5lepef8jLHUSssTRvCEZdNmx2rylafnuev4yzhnDC1PGMETdtSg88aueU7P/bej5Qkj
+eMKm6zYzdY9V115lepLdPdi3aHnCCJ6wiZ7UZGqyrvXYNV+6nEJpecIInrBsb7P7S5zu53b82xgr
+aqLlCSN4wroG6VVfzUzep2Nuk0E67hE8YRMfV3Ys61R9Gz5Z7l7+LFqeMIInbKLcvaqXVVUUlPn2
+PIq5TdwjeMIq5zYzg+LJ7TiqloqqCp+W0fKEETxhlXObKks5k+Xrmb/JW7Q8YQRPWNdKunV+9D12
+pa+O4573CaHlCSN4wro2jvNsyBa9tqM+MzO3WTV3ytzmExE8YRNbeVT13DrK17u3L/ZgkP5EBE/Y
+RG/TUjXIjfZUuz+0tFC3iX8ET9j0fpvRtBPt3VWtelcN2Bmk4x7BE3bi7j5VPUPP/S1VhVVRpM2n
+IHjCVnqbk2XhmUFxx/Yg1v0zpfvLaHnCCJ6wE3+50pNCM/OonuMemecyt/l0BE/Yib9cGV1J75jz
+tHqeVd+/l6DlCSN4wk78CbYrT6+so3Coew/PklV1Wp4wgifs9LTZUcreUeIexSD96QiesBN/ufIq
+M7j2mFxaKi+Vp+UJI3jCurYpjtr19U1mx6TuQqa3aHnCCB4AAAAAAAAAYNQPbnisz+UnFnwAAAAA
+SUVORK5CYII=
+"
+       height="111"
+       width="111" />
+    <image
+       y="883.96777"
+       x="390.21991"
+       id="image3178"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAqRJREFU
+eJzt3dlOxDAMheEB8f6vDFdAL2qNHS/JUf/vsuomrJgsbub1AgAAAAAAAAA9HwvXfJe/he89rs/9
+MI577pl5f89zM0Lx+Gx4AQwheMK+ktevpN1fVtqx0mPmHTz3jKbl6DtYltMvLU8YwROWTZtXVenF
+Oqcq3VnnR59r6U6zf2h5wgiesMq0WSWTdqLXRnu2R6HlCSN4wk5Mm9G0Fk2h0eOeZ21ByxNG8IRV
+ps2qlOJJX5lepef8jLHUSssTRvCEZdNmx2rylafnuev4yzhnDC1PGMETdtSg88aueU7P/bej5Qkj
+eMKm6zYzdY9V115lepLdPdi3aHnCCJ6wiZ7UZGqyrvXYNV+6nEJpecIInrBsb7P7S5zu53b82xgr
+aqLlCSN4wroG6VVfzUzep2Nuk0E67hE8YRMfV3Ys61R9Gz5Z7l7+LFqeMIInbKLcvaqXVVUUlPn2
+PIq5TdwjeMIq5zYzg+LJ7TiqloqqCp+W0fKEETxhlXObKks5k+Xrmb/JW7Q8YQRPWNdKunV+9D12
+pa+O4573CaHlCSN4wro2jvNsyBa9tqM+MzO3WTV3ytzmExE8YRNbeVT13DrK17u3L/ZgkP5EBE/Y
+RG/TUjXIjfZUuz+0tFC3iX8ET9j0fpvRtBPt3VWtelcN2Bmk4x7BE3bi7j5VPUPP/S1VhVVRpM2n
+IHjCVnqbk2XhmUFxx/Yg1v0zpfvLaHnCCJ6wE3+50pNCM/OonuMemecyt/l0BE/Yib9cGV1J75jz
+tHqeVd+/l6DlCSN4wk78CbYrT6+so3Coew/PklV1Wp4wgifs9LTZUcreUeIexSD96QiesBN/ufIq
+M7j2mFxaKi+Vp+UJI3jCurYpjtr19U1mx6TuQqa3aHnCCB4AAAAAAAAAYNQPbnisz+UnFnwAAAAA
+SUVORK5CYII=
+"
        height="111"
        width="111" />
   </g>
