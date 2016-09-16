@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="219.93854"
+     inkscape:cx="221.35275"
      inkscape:cy="201.961"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,7 +61,7 @@
        id="rect3347-5-4-3"
        width="239.56349"
        height="337.31516"
-       x="18.34185"
+       x="16.34185"
        y="698.50092"
        rx="10.1633"
        ry="10.090624"
@@ -90,7 +90,7 @@
        id="rect3347-5-1"
        width="248.93642"
        height="353.03711"
-       x="13.655405"
+       x="11.655405"
        y="690.63995"
        rx="5.2804699"
        ry="5.2804699"
@@ -99,27 +99,27 @@
     <text
        xml:space="preserve"
        style="font-size:25.37464905px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-117.83192"
-       y="876.27789"
+       x="-119.75223"
+       y="875.71893"
        id="text3457"
        sodipodi:linespacing="125%"
        transform="matrix(0.96015453,-0.27946963,0.27946963,0.96015453,0,0)"><tspan
          sodipodi:role="line"
-         x="-117.83192"
-         y="876.27789"
+         x="-119.75223"
+         y="875.71893"
          id="tspan3463"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold;fill:#000080">Psychiater</tspan></text>
+         style="font-weight:bold;text-align:center;text-anchor:middle;fill:#000080;-inkscape-font-specification:Sans Bold">Psychiater</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.4829998px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-62.840416"
-       y="854.53009"
+       x="-64.760727"
+       y="853.97113"
        id="text3457-3"
        sodipodi:linespacing="125%"
        transform="matrix(0.96015453,-0.27946963,0.27946963,0.96015453,0,0)"><tspan
          sodipodi:role="line"
-         x="-62.840416"
-         y="854.53009"
+         x="-64.760727"
+         y="853.97113"
          id="tspan3463-7"
          style="text-align:center;text-anchor:middle;fill:#ff0000">Quartett</tspan></text>
     <text
@@ -169,105 +169,49 @@
          style="text-align:center;text-anchor:middle;fill:#0000ff">http://psychiatrie-leaks.ch/Shrink-Disorder-Game/</tspan></text>
     <image
        y="694.92761"
-       x="19.331999"
+       x="17.331999"
        id="image3034"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAqhJREFU
-eJzt3ctuxCAMheG06vu/crtqJwusmrEP4Yj/W5PLjIUFwSHXBQAAAAAAAAB+Pt445rv9LnL3cb9u
-1D5zb/djZ9vPXmvWVDw+BTeARQiesa/i8e+k3V9R2qmko0yKy6Tf6NioveJ/+Bc9zxjBM1ZNm3eV
-kVtX+7vZ0WlXSlT8D0P0PGMEz1hn2uwSTaIVKTQzYW9JcQr0PGMEz9iOaTMzea+ku0wKtUDPM0bw
-jHWmTUXaqSzfZNpnUvHKBwtT6HnGCJ6xatpUrCYrZFJiJYU+8j/Q84wRPGPvpE27yew1P8HPePx/
-oOcZI3jGOus2u0ZoipXrSGVi3vXQ4O30S88zRvCMVdPmytLxp0Z3Xb+r0maInmeM4BmrpiJFSukq
-OorMjpYzbSoTf0abJyJ4xlQjuErqe3zye+nv/460eSKCZ0w1Se96aXH2utdkm0r76Ni7rlrTIXqe
-MYJnbEUBUqUcPdM+aqMuHFLczxR6njGCZ0y1kl45T3ROxQq+up4zum6E0eYpCJ6xFQVIndfuOL96
-hyVFyh2i5xkjeMZUG8cp9s+cnRRnzjN7D1u9z07PM0bwjK0uQFJMbDMUW38oHlYwST8FwTO2YiW9
-K7WurOdUT/BZST8dwTO2um6z66XLlcsx6mehmfZD9DxjBM/Y6pcrM3aYvCu2+6AACS8Ez9jju/gM
-qOs81duMKN7ZH6LnGSN4xjoLkCoUW4KoV/O7HkRQgHQigmdsxy9XqifOs9fKHJvBJB0vBM/Y7l+u
-jM7v8kyVjeMwRvCM7f4Jtig9qrdKjs4ZHbty1PqHnmeM4BnbMW0qaj6vRBt1WXuE0eaJCJ6xHb9c
-WZkIZ9pkUqJi2Ss6P6PNExE8Y05frlTssRkde/fUW0v/oucZI3gAAAAAAAAAgKV+AK5wrMfAmP6a
-AAAAAElFTkSuQmCC
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAqhJREFU eJzt3ctuxCAMheG06vu/crtqJwusmrEP4Yj/W5PLjIUFwSHXBQAAAAAAAAB+Pt445rv9LnL3cb9u 1D5zb/djZ9vPXmvWVDw+BTeARQiesa/i8e+k3V9R2qmko0yKy6Tf6NioveJ/+Bc9zxjBM1ZNm3eV kVtX+7vZ0WlXSlT8D0P0PGMEz1hn2uwSTaIVKTQzYW9JcQr0PGMEz9iOaTMzea+ku0wKtUDPM0bw jHWmTUXaqSzfZNpnUvHKBwtT6HnGCJ6xatpUrCYrZFJiJYU+8j/Q84wRPGPvpE27yew1P8HPePx/ oOcZI3jGOus2u0ZoipXrSGVi3vXQ4O30S88zRvCMVdPmytLxp0Z3Xb+r0maInmeM4BmrpiJFSukq OorMjpYzbSoTf0abJyJ4xlQjuErqe3zye+nv/460eSKCZ0w1Se96aXH2utdkm0r76Ni7rlrTIXqe MYJnbEUBUqUcPdM+aqMuHFLczxR6njGCZ0y1kl45T3ROxQq+up4zum6E0eYpCJ6xFQVIndfuOL96 hyVFyh2i5xkjeMZUG8cp9s+cnRRnzjN7D1u9z07PM0bwjK0uQFJMbDMUW38oHlYwST8FwTO2YiW9 K7WurOdUT/BZST8dwTO2um6z66XLlcsx6mehmfZD9DxjBM/Y6pcrM3aYvCu2+6AACS8Ez9jju/gM qOs81duMKN7ZH6LnGSN4xjoLkCoUW4KoV/O7HkRQgHQigmdsxy9XqifOs9fKHJvBJB0vBM/Y7l+u jM7v8kyVjeMwRvCM7f4Jtig9qrdKjs4ZHbty1PqHnmeM4BnbMW0qaj6vRBt1WXuE0eaJCJ6xHb9c WZkIZ9pkUqJi2Ss6P6PNExE8Y05frlTssRkde/fUW0v/oucZI3gAAAAAAAAAgKV+AK5wrMfAmP6a AAAAAElFTkSuQmCC "
        height="111"
        width="111" />
     <image
        y="696.3418"
        x="271.76913"
        id="image3045"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAqhJREFU
-eJzt3ctuxCAMheG06vu/crtqJwusmrEP4Yj/W5PLjIUFwSHXBQAAAAAAAAB+Pt445rv9LnL3cb9u
-1D5zb/djZ9vPXmvWVDw+BTeARQiesa/i8e+k3V9R2qmko0yKy6Tf6NioveJ/+Bc9zxjBM1ZNm3eV
-kVtX+7vZ0WlXSlT8D0P0PGMEz1hn2uwSTaIVKTQzYW9JcQr0PGMEz9iOaTMzea+ku0wKtUDPM0bw
-jHWmTUXaqSzfZNpnUvHKBwtT6HnGCJ6xatpUrCYrZFJiJYU+8j/Q84wRPGPvpE27yew1P8HPePx/
-oOcZI3jGOus2u0ZoipXrSGVi3vXQ4O30S88zRvCMVdPmytLxp0Z3Xb+r0maInmeM4BmrpiJFSukq
-OorMjpYzbSoTf0abJyJ4xlQjuErqe3zye+nv/460eSKCZ0w1Se96aXH2utdkm0r76Ni7rlrTIXqe
-MYJnbEUBUqUcPdM+aqMuHFLczxR6njGCZ0y1kl45T3ROxQq+up4zum6E0eYpCJ6xFQVIndfuOL96
-hyVFyh2i5xkjeMZUG8cp9s+cnRRnzjN7D1u9z07PM0bwjK0uQFJMbDMUW38oHlYwST8FwTO2YiW9
-K7WurOdUT/BZST8dwTO2um6z66XLlcsx6mehmfZD9DxjBM/Y6pcrM3aYvCu2+6AACS8Ez9jju/gM
-qOs81duMKN7ZH6LnGSN4xjoLkCoUW4KoV/O7HkRQgHQigmdsxy9XqifOs9fKHJvBJB0vBM/Y7l+u
-jM7v8kyVjeMwRvCM7f4Jtig9qrdKjs4ZHbty1PqHnmeM4BnbMW0qaj6vRBt1WXuE0eaJCJ6xHb9c
-WZkIZ9pkUqJi2Ss6P6PNExE8Y05frlTssRkde/fUW0v/oucZI3gAAAAAAAAAgKV+AK5wrMfAmP6a
-AAAAAElFTkSuQmCC
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAqhJREFU eJzt3ctuxCAMheG06vu/crtqJwusmrEP4Yj/W5PLjIUFwSHXBQAAAAAAAAB+Pt445rv9LnL3cb9u 1D5zb/djZ9vPXmvWVDw+BTeARQiesa/i8e+k3V9R2qmko0yKy6Tf6NioveJ/+Bc9zxjBM1ZNm3eV kVtX+7vZ0WlXSlT8D0P0PGMEz1hn2uwSTaIVKTQzYW9JcQr0PGMEz9iOaTMzea+ku0wKtUDPM0bw jHWmTUXaqSzfZNpnUvHKBwtT6HnGCJ6xatpUrCYrZFJiJYU+8j/Q84wRPGPvpE27yew1P8HPePx/ oOcZI3jGOus2u0ZoipXrSGVi3vXQ4O30S88zRvCMVdPmytLxp0Z3Xb+r0maInmeM4BmrpiJFSukq OorMjpYzbSoTf0abJyJ4xlQjuErqe3zye+nv/460eSKCZ0w1Se96aXH2utdkm0r76Ni7rlrTIXqe MYJnbEUBUqUcPdM+aqMuHFLczxR6njGCZ0y1kl45T3ROxQq+up4zum6E0eYpCJ6xFQVIndfuOL96 hyVFyh2i5xkjeMZUG8cp9s+cnRRnzjN7D1u9z07PM0bwjK0uQFJMbDMUW38oHlYwST8FwTO2YiW9 K7WurOdUT/BZST8dwTO2um6z66XLlcsx6mehmfZD9DxjBM/Y6pcrM3aYvCu2+6AACS8Ez9jju/gM qOs81duMKN7ZH6LnGSN4xjoLkCoUW4KoV/O7HkRQgHQigmdsxy9XqifOs9fKHJvBJB0vBM/Y7l+u jM7v8kyVjeMwRvCM7f4Jtig9qrdKjs4ZHbty1PqHnmeM4BnbMW0qaj6vRBt1WXuE0eaJCJ6xHb9c WZkIZ9pkUqJi2Ss6P6PNExE8Y05frlTssRkde/fUW0v/oucZI3gAAAAAAAAAgKV+AK5wrMfAmP6a AAAAAElFTkSuQmCC "
        height="111"
        width="111" />
     <text
        xml:space="preserve"
        style="font-size:8.2195015px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="136.10239"
+       x="134.10239"
        y="1010.0682"
        id="text2994-3-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2996-6-6"
-         x="136.10239"
+         x="134.10239"
          y="1010.0682"
          style="font-size:9.893363px;font-weight:bold;text-align:center;text-anchor:middle;fill:#4d4d4d;-inkscape-font-specification:Sans Bold">Gratis <tspan
    style="fill:#333333"
    id="tspan3002-7-7">runterladen oder mitmachen</tspan></tspan><tspan
          sodipodi:role="line"
-         x="136.10239"
+         x="134.10239"
          y="1020.7665"
          id="tspan2998-5-5"
          style="text-align:center;text-anchor:middle;fill:#0000ff">http://psychiatrie-leaks.ch/Shrink-Disorder-Game/</tspan></text>
     <image
        y="885.84644"
-       x="131.17619"
+       x="129.17619"
        id="image3167"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAqRJREFU
-eJzt3dlOxDAMheEB8f6vDFdAL2qNHS/JUf/vsuomrJgsbub1AgAAAAAAAAA9HwvXfJe/he89rs/9
-MI577pl5f89zM0Lx+Gx4AQwheMK+ktevpN1fVtqx0mPmHTz3jKbl6DtYltMvLU8YwROWTZtXVenF
-Oqcq3VnnR59r6U6zf2h5wgiesMq0WSWTdqLXRnu2R6HlCSN4wk5Mm9G0Fk2h0eOeZ21ByxNG8IRV
-ps2qlOJJX5lepef8jLHUSssTRvCEZdNmx2rylafnuev4yzhnDC1PGMETdtSg88aueU7P/bej5Qkj
-eMKm6zYzdY9V115lepLdPdi3aHnCCJ6wiZ7UZGqyrvXYNV+6nEJpecIInrBsb7P7S5zu53b82xgr
-aqLlCSN4wroG6VVfzUzep2Nuk0E67hE8YRMfV3Ys61R9Gz5Z7l7+LFqeMIInbKLcvaqXVVUUlPn2
-PIq5TdwjeMIq5zYzg+LJ7TiqloqqCp+W0fKEETxhlXObKks5k+Xrmb/JW7Q8YQRPWNdKunV+9D12
-pa+O4573CaHlCSN4wro2jvNsyBa9tqM+MzO3WTV3ytzmExE8YRNbeVT13DrK17u3L/ZgkP5EBE/Y
-RG/TUjXIjfZUuz+0tFC3iX8ET9j0fpvRtBPt3VWtelcN2Bmk4x7BE3bi7j5VPUPP/S1VhVVRpM2n
-IHjCVnqbk2XhmUFxx/Yg1v0zpfvLaHnCCJ6wE3+50pNCM/OonuMemecyt/l0BE/Yib9cGV1J75jz
-tHqeVd+/l6DlCSN4wk78CbYrT6+so3Coew/PklV1Wp4wgifs9LTZUcreUeIexSD96QiesBN/ufIq
-M7j2mFxaKi+Vp+UJI3jCurYpjtr19U1mx6TuQqa3aHnCCB4AAAAAAAAAYNQPbnisz+UnFnwAAAAA
-SUVORK5CYII=
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAqRJREFU eJzt3dlOxDAMheEB8f6vDFdAL2qNHS/JUf/vsuomrJgsbub1AgAAAAAAAAA9HwvXfJe/he89rs/9 MI577pl5f89zM0Lx+Gx4AQwheMK+ktevpN1fVtqx0mPmHTz3jKbl6DtYltMvLU8YwROWTZtXVenF Oqcq3VnnR59r6U6zf2h5wgiesMq0WSWTdqLXRnu2R6HlCSN4wk5Mm9G0Fk2h0eOeZ21ByxNG8IRV ps2qlOJJX5lepef8jLHUSssTRvCEZdNmx2rylafnuev4yzhnDC1PGMETdtSg88aueU7P/bej5Qkj eMKm6zYzdY9V115lepLdPdi3aHnCCJ6wiZ7UZGqyrvXYNV+6nEJpecIInrBsb7P7S5zu53b82xgr aqLlCSN4wroG6VVfzUzep2Nuk0E67hE8YRMfV3Ys61R9Gz5Z7l7+LFqeMIInbKLcvaqXVVUUlPn2 PIq5TdwjeMIq5zYzg+LJ7TiqloqqCp+W0fKEETxhlXObKks5k+Xrmb/JW7Q8YQRPWNdKunV+9D12 pa+O4573CaHlCSN4wro2jvNsyBa9tqM+MzO3WTV3ytzmExE8YRNbeVT13DrK17u3L/ZgkP5EBE/Y RG/TUjXIjfZUuz+0tFC3iX8ET9j0fpvRtBPt3VWtelcN2Bmk4x7BE3bi7j5VPUPP/S1VhVVRpM2n IHjCVnqbk2XhmUFxx/Yg1v0zpfvLaHnCCJ6wE3+50pNCM/OonuMemecyt/l0BE/Yib9cGV1J75jz tHqeVd+/l6DlCSN4wk78CbYrT6+so3Coew/PklV1Wp4wgifs9LTZUcreUeIexSD96QiesBN/ufIq M7j2mFxaKi+Vp+UJI3jCurYpjtr19U1mx6TuQqa3aHnCCB4AAAAAAAAAYNQPbnisz+UnFnwAAAAA SUVORK5CYII= "
        height="111"
        width="111" />
     <image
        y="883.96777"
        x="390.21991"
        id="image3178"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAqRJREFU
-eJzt3dlOxDAMheEB8f6vDFdAL2qNHS/JUf/vsuomrJgsbub1AgAAAAAAAAA9HwvXfJe/he89rs/9
-MI577pl5f89zM0Lx+Gx4AQwheMK+ktevpN1fVtqx0mPmHTz3jKbl6DtYltMvLU8YwROWTZtXVenF
-Oqcq3VnnR59r6U6zf2h5wgiesMq0WSWTdqLXRnu2R6HlCSN4wk5Mm9G0Fk2h0eOeZ21ByxNG8IRV
-ps2qlOJJX5lepef8jLHUSssTRvCEZdNmx2rylafnuev4yzhnDC1PGMETdtSg88aueU7P/bej5Qkj
-eMKm6zYzdY9V115lepLdPdi3aHnCCJ6wiZ7UZGqyrvXYNV+6nEJpecIInrBsb7P7S5zu53b82xgr
-aqLlCSN4wroG6VVfzUzep2Nuk0E67hE8YRMfV3Ys61R9Gz5Z7l7+LFqeMIInbKLcvaqXVVUUlPn2
-PIq5TdwjeMIq5zYzg+LJ7TiqloqqCp+W0fKEETxhlXObKks5k+Xrmb/JW7Q8YQRPWNdKunV+9D12
-pa+O4573CaHlCSN4wro2jvNsyBa9tqM+MzO3WTV3ytzmExE8YRNbeVT13DrK17u3L/ZgkP5EBE/Y
-RG/TUjXIjfZUuz+0tFC3iX8ET9j0fpvRtBPt3VWtelcN2Bmk4x7BE3bi7j5VPUPP/S1VhVVRpM2n
-IHjCVnqbk2XhmUFxx/Yg1v0zpfvLaHnCCJ6wE3+50pNCM/OonuMemecyt/l0BE/Yib9cGV1J75jz
-tHqeVd+/l6DlCSN4wk78CbYrT6+so3Coew/PklV1Wp4wgifs9LTZUcreUeIexSD96QiesBN/ufIq
-M7j2mFxaKi+Vp+UJI3jCurYpjtr19U1mx6TuQqa3aHnCCB4AAAAAAAAAYNQPbnisz+UnFnwAAAAA
-SUVORK5CYII=
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAYAAADixZ5gAAAABHNCSVQICAgIfAhkiAAAAqRJREFU eJzt3dlOxDAMheEB8f6vDFdAL2qNHS/JUf/vsuomrJgsbub1AgAAAAAAAAA9HwvXfJe/he89rs/9 MI577pl5f89zM0Lx+Gx4AQwheMK+ktevpN1fVtqx0mPmHTz3jKbl6DtYltMvLU8YwROWTZtXVenF Oqcq3VnnR59r6U6zf2h5wgiesMq0WSWTdqLXRnu2R6HlCSN4wk5Mm9G0Fk2h0eOeZ21ByxNG8IRV ps2qlOJJX5lepef8jLHUSssTRvCEZdNmx2rylafnuev4yzhnDC1PGMETdtSg88aueU7P/bej5Qkj eMKm6zYzdY9V115lepLdPdi3aHnCCJ6wiZ7UZGqyrvXYNV+6nEJpecIInrBsb7P7S5zu53b82xgr aqLlCSN4wroG6VVfzUzep2Nuk0E67hE8YRMfV3Ys61R9Gz5Z7l7+LFqeMIInbKLcvaqXVVUUlPn2 PIq5TdwjeMIq5zYzg+LJ7TiqloqqCp+W0fKEETxhlXObKks5k+Xrmb/JW7Q8YQRPWNdKunV+9D12 pa+O4573CaHlCSN4wro2jvNsyBa9tqM+MzO3WTV3ytzmExE8YRNbeVT13DrK17u3L/ZgkP5EBE/Y RG/TUjXIjfZUuz+0tFC3iX8ET9j0fpvRtBPt3VWtelcN2Bmk4x7BE3bi7j5VPUPP/S1VhVVRpM2n IHjCVnqbk2XhmUFxx/Yg1v0zpfvLaHnCCJ6wE3+50pNCM/OonuMemecyt/l0BE/Yib9cGV1J75jz tHqeVd+/l6DlCSN4wk78CbYrT6+so3Coew/PklV1Wp4wgifs9LTZUcreUeIexSD96QiesBN/ufIq M7j2mFxaKi+Vp+UJI3jCurYpjtr19U1mx6TuQqa3aHnCCB4AAAAAAAAAYNQPbnisz+UnFnwAAAAA SUVORK5CYII= "
        height="111"
        width="111" />
   </g>
