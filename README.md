@@ -1,5 +1,8 @@
 # Psychiater Quartett / Psychiatrie Quartett
-Das Problem normaler Tarot Karten ist, dass dort die Technologie und Methoden Karten fehlen, und kann die Technologie wie der Stimoceiver / OpenBCI / WO2005055579A1 gehackt werden, muss dies in die Gleichung einbezogen werden, Tarot wäre somit ein Kinderspielzeug mit Mord-Funktionalität um die ca 10% toten Kinder zu produzieren dass das #MKULTRA Ritual Child Murder Projekt braucht um den Rest der Schweigenden Lämmer damit zu erpressen...
+Das Problem normaler Tarot Karten ist, dass dort die Technologie und Methoden Karten fehlen, und kann die Technologie wie der Stimoceiver / OpenBCI / WO2005055579A1 gehackt werden, muss dies in die Gleichung einbezogen werden, Tarot wäre somit ein Kinderspielzeug mit Mord-Funktionalität um die ca 10% toten Kinder zu produzieren dass das #MKULTRA Ritual Child Murder Projekt braucht um den Rest der Schweigenden Lämmer damit zu erpressen....
+
+DSM<=>MKULTRA
+Donald Ewen Cameron <=> Burghölzli Schweiz
 
  * (klassische) Psychiater
  * Film Psychiater
