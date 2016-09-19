@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="247.46911"
-     inkscape:cy="59.590071"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="297.74773"
+     inkscape:cy="223.94822"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -517,7 +517,10 @@
        x="285.88162"
        y="1010.7903"
        id="text3061-3-3"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/marc/RuesselElefant.png"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-ydpi="375.67999"><tspan
          sodipodi:role="line"
          x="285.88162"
          y="1010.7903"
