@@ -25,6 +25,10 @@ figlet -w 120 -f banner put $(find ./finished |grep svg$ |wc -l) A6-Cards into y
 echo "
 => some printers have issues with that much cards in the manual paper tray, edit this file for this problem
 
+=> we also suggest to test it first manually, some printers turn the card, some turn them twice, after that the file for the backside
+   of the card opens, in that case you have to choose $(find ./finished |grep svg$ |wc -l) copies manually after you have
+   put the cards the other direction into the printer
+
 => after pressing enter, dont touch your computer until the cards are all printed
 "
 
@@ -53,6 +57,11 @@ then
 else
     echo not not printing
 fi
+
+
+/usr/bin/inkscape ./Back/back.svg &
+sleep 5
+xdotool key ctrl+p
 
 
 exit 0
