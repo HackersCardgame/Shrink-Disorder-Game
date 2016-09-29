@@ -14,8 +14,8 @@ Donald Ewen Cameron <=> Burghölzli Schweiz
 
 
 ### Spiele-Idee:
-+ you've been owned - you've been unowned
-(leider spielen einige ältere Herren dieses "Spiel" echt und somit wäre der Gedanke dahinter auch, dass Kinder rechtzeitig informieren können, falls man ihnen so etwas antun, da sie so zumindest das Wissen über die Existenz solcher Technologien haben)
+**you've been owned** bzw **you've been unowned**
+(leider "spielen" einige ältere Herren dies echt und somit wäre ein weiterer Gedanke dahinter auch, dass Kinder rechtzeitig informieren können, falls man ihnen so etwas antun, da sie so zumindest das Wissen über die Existenz solcher Technologien haben)
 
 #### Beispiele:
 Spinal Cord Implantat welches um alle Nervenbahnen erweitert wurde schlägt den Stimoceiver oder das WO2005055579A1
