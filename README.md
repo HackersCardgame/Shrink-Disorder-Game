@@ -16,9 +16,9 @@ Die Spiel Idee dahinter wäre:
 you've been owned / you've been unowned
 (leider spielen einige ältere Herren dieses "Spiel" echt und somit wäre der Gedanke dahinter, dass Kinder rechtzeitig informieren können, falls man ihnen so etwas antun, da sie so zumindest das Wissen über diese Technologien haben)
 
-Beispiele:
+** Beispiele:
 Spinal Cord Implantat welches um alle Nervenbahnen erweitert wurde schlägt den Stimoceiver oder das WO2005055579A1
-![](http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t6.png) ![](http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t1.png)
+<img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t6.png" width=200> <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t1.png">
 
 Oder FarCry SkinnerBOX schlägt 1960er SkinnerBOX
 ![](http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t8.png) ![](http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t2.png)
