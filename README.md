@@ -18,10 +18,10 @@ you've been owned / you've been unowned
 
 ** Beispiele:
 Spinal Cord Implantat welches um alle Nervenbahnen erweitert wurde schlägt den Stimoceiver oder das WO2005055579A1
-<img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t6.png" width=200> <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t1.png">
+<img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t6.png" width=200> <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t1.png" width=200>
 
 Oder FarCry SkinnerBOX schlägt 1960er SkinnerBOX
-![](http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t8.png) ![](http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t2.png)
+<img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t8.png" width=200> <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t2.png" width=200>
 
 verwendete Software:
 Inkscape on GNU debian jessie/stretch Linux
