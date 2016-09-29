@@ -17,10 +17,13 @@ you've been owned / you've been unowned
 (leider spielen einige ältere Herren dieses "Spiel" echt und somit wäre der Gedanke dahinter, dass Kinder rechtzeitig informieren können, falls man ihnen so etwas antun, da sie so zumindest das Wissen über diese Technologien haben)
 
 ** Beispiele:
+
 Spinal Cord Implantat welches um alle Nervenbahnen erweitert wurde schlägt den Stimoceiver oder das WO2005055579A1
-<img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t6.png" width=200> <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t1.png" width=200>
+
+<img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t6.png" width=200> <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t1.png" width=200> <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t3.png" width=200>
 
 Oder FarCry SkinnerBOX schlägt 1960er SkinnerBOX
+
 <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t8.png" width=200> <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t2.png" width=200>
 
 verwendete Software:
