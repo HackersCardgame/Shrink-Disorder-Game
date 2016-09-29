@@ -14,7 +14,7 @@ Donald Ewen Cameron <=> Burghölzli Schweiz
 
 
 ### Spiele-Idee:
-<font color=red>you've been owned</font> / you've been unowned
++ you've been owned - you've been unowned
 (leider spielen einige ältere Herren dieses "Spiel" echt und somit wäre der Gedanke dahinter auch, dass Kinder rechtzeitig informieren können, falls man ihnen so etwas antun, da sie so zumindest das Wissen über die Existenz solcher Technologien haben)
 
 #### Beispiele:
