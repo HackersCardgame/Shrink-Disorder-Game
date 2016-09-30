@@ -1,8 +1,8 @@
 # Psychiater Quartett / Psychiatrie Quartett
-Das Problem normaler Tarot Karten ist, dass dort die Technologie und Methoden Karten fehlen, und kann die Technologie wie der Stimoceiver / OpenBCI / WO2005055579A1 gehackt werden, muss dies in die Gleichung einbezogen werden, Tarot wäre somit ein Kinderspielzeug mit Mord-Funktionalität um die ca 10% toten Kinder zu produzieren dass das #MKULTRA Ritual Child Murder Projekt braucht um den Rest der Schweigenden Lämmer damit zu erpressen....
+Das Problem normaler Tarot Karten ist, dass dort die Technologie- und Methoden-Karten fehlen, und kann die Technologie wie der Stimoceiver / OpenBCI / WO2005055579A1 gehackt werden, muss dies in die Gleichung mit einbezogen werden. Tarot wäre somit nur ein Kinderspielzeug aber mit Kill-Premissions welche ca 1% tote Kinder produziert womit as #MKULTRA Ritual-Child-Murder Projekt dann die restlichen 99% erpresst und fremdbestimmt...
 
-DSM<=>MKULTRA
-Donald Ewen Cameron <=> Burghölzli Schweiz
+MKULTRA ⇔ DSM (zeitliche Entwicklung ab ~1950 / Explosion der "Krankheitsbilder" ~1970)
+Donald Ewen Cameron ⇔ Burghölzli Schweiz
 
  * (klassische) Psychiater
  * Film Psychiater
@@ -14,7 +14,7 @@ Donald Ewen Cameron <=> Burghölzli Schweiz
 
 
 ### Spiele-Idee:
-**you've been owned** bzw **you've been unowned**
+**you've been owned** bzw **you've been UNowned**
 
 (leider "spielen" einige ältere Herren dies echt und somit wäre ein weiterer Gedanke dahinter auch, dass Kinder rechtzeitig informieren können, falls man ihnen so etwas antun, da sie so zumindest das Wissen über die Existenz solcher Technologien haben)
 
@@ -23,12 +23,12 @@ Spinal Cord Implantat welches um alle Nervenbahnen erweitert wurde **schlägt** 
 
 <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t6.png" width=200> <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t1.png" width=200> <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t3.png" width=200>
 
-Oder FarCry SkinnerBOX **schlägt** 1960er SkinnerBOX
+Oder FARCRY-SkinnerBOX **schlägt** 1960er-SkinnerBOX
 
 <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t8.png" width=200> <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t2.png" width=200>
 
 verwendete Software:
-Inkscape on GNU debian jessie/stretch Linux
+Inkscape on Debian GNU/Linux (jessie/stretch)
 
 Ausdrucken geht am besten auf A6 Halbkarton Karten (z.B. aus der Migros Papeterie) in einem Laser Drucker, in meinem Fall ein Brother MFC-9460cdn
 
@@ -37,33 +37,23 @@ Rückseite ist im Ordner: Back
 A7 Vorlage gemacht,suboptimal auf MFC-9460cdn: http://psychiatrie-leaks.ch/Shrink-Disorder-Game/ausschneiden.jpg
 * http://gustav-mueller.bürobest.de/de/ordnen-registrieren/karteien-zubehoer/karteikarten/exacompta-karteikarte-din-a7-144074701.html
 * https://www.naund-versand.de/schule-malen/karteikarten-a7-100-stueck-brunnen/a-2257/
-(die ersten 2 Links die ich fand, selber hab ich das im Müller Aarau gekauft)
-[beim meinem Brother 9460CDN geht das nicht so richtig, der Drocker meldet "Kurzes Papier" es druckt zwar, kommt raus, verklemmt nicht die Drucker Software geht in einen Deadlock Status den man nur noch rausbekommt wenn man ihn aus und wieder einschaltet, beim MFC7820N gehts problemlos (aber nur Schwarz/Weiss]
+(die ersten 2 Links die ich im Netz fand / Müller Aarau)
+[beim meinem Brother 9460CDN geht das nicht so richtig, der Drocker meldet "Kurzes Papier" es druckt zwar aber danach blockiert der Drucher bzw die Drucker Software geht in einen Deadlock Status den man nur nochmit einem Neustart resetten kann, beim MFC7820N gehts problemlos (aber nur Schwarz/Weiss]
 
-*TODO: allenfalls einen Schwarz/Weiss Modus für die Karten, weil man auf vielen Karten sonst kaum das Bild erkennt
-# Psychiater Quartett / Psychiatrie Quartett
-
- * (klassische) Psychiater
- * Film Psychiater
- * Technologie Karten
- * Methoden Karten
- * Algorithmen Karten
- * sonstige häufige Archetypen in Filmen
-
-verwendete Software:
-Inkscape on GNU debian jessie/stretch Linux
 
 Ausdrucken geht am besten auf A6 Halbkarton Karten (z.B. aus der Migros Papeterie) in einem Laser Drucker, in meinem Fall ein Brother MFC-9460cdn
 
 Rückseite ist im Ordner: Back
-
 
 Möge dieses Repo unter Creative Commons by-nc-sa stehen + mögen die Lizenzbedingungen für den Fall dass damit Kinder oder Jüngere geschützt werden können auch umgangen werden...
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
-und ja so far, es ist zur Zeit noch ein Prototyp und scheinbar will da "zufällig" niemand mitmachen => DSM <=> MKULTRA ist somit ev recht mächtig
+Es ist zur Zeit noch ein Prototyp 
+die DSM / MKULTRA Leute finden es scheinbar auch nicht so toll dass man das nicht geheim hält.
 
-Das Projekt ist für den Moment mal auf http://marclandolt.ch/PsychiaterQuartettKarten/description.html / bzw auf http://psychiatrie-leaks.ch/Shrink-Disorder-Game zuhause...
+Das Projekt ist für den Moment mal auf http://psychiatrie-leaks.ch/Shrink-Disorder-Game zuhause...
+
+http://marclandolt.ch/PsychiaterQuartettKarten/description.html ist **"outdated"**
 
