@@ -69,7 +69,7 @@ else
 fi
 
 
-/usr/bin/inkscape ./Back/back.svg &
+/usr/bin/inkscape ./back/back.svg &
 sleep 5
 xdotool key ctrl+p
 
