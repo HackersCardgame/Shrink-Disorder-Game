@@ -1,5 +1,6 @@
 #!/bin/bash
 
 mkdir ~/.fonts
-cp * ~/.fonts
+cp *.ttf ~/.fonts
+cp *.TTF ~/.fonts
 fc-cache -f -v

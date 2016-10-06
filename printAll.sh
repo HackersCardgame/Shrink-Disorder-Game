@@ -18,15 +18,23 @@ fi
 echo "
 
 "
-echo put $(find ./finished |grep svg$ |wc -l) A6 Cards into your printer
 
-figlet -w 120 -f banner put $(find ./finished |grep svg$ |wc -l) A6-Cards into your printer
+find ./algorithms -name "*-*.svg" >./print.txt
+find ./archetypes -name "*-*.svg" >>./print.txt
+find ./methods -name "*-*.svg" >>./print.txt
+find ./psychiatrists -name "*-*.svg" >>./print.txt
+find ./technolgies -name "*-*.svg" >>./print.txt
+
+
+echo put $(cat ./print.txt |wc -l) A6 Cards into your printer
+
+figlet -w 120 -f banner put $(cat ./print.txt |wc -l) A6-Cards into your printer
 
 echo "
 => some printers have issues with that much cards in the manual paper tray, edit this file for this problem
 
 => we also suggest to test it first manually, some printers turn the card, some turn them twice, after that the file for the backside
-   of the card opens, in that case you have to choose $(find ./finished |grep svg$ |wc -l) copies manually after you have
+   of the card opens, in that case you have to choose $(cat ./print.txt|wc -l) copies manually after you have
    put the cards the other direction into the printer
 
 => after pressing enter, dont touch your computer until the cards are all printed
@@ -39,7 +47,9 @@ then
 
  /usr/bin/inkscape &
 
- for i in $(find ./finished |grep svg$)
+
+
+ for i in $(cat ./print.txt)
   do
 
    /usr/bin/inkscape $i &
@@ -64,17 +74,5 @@ sleep 5
 xdotool key ctrl+p
 
 
-exit 0
-
-sleep 15
-
-/usr/bin/inkscape $i &
-
-sleep 5
-xdotool key ctrl+p
-sleep 2
-xdotool key KP_Enter
-sleep 5
-xdotool key alt+F4
 
 

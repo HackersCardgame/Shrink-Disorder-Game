@@ -1,0 +1,9 @@
+./archetypes/movieArchetypes/ma1-2.svg
+./archetypes/gameArchetypes/g1-2.svg
+./methods/m3-4.svg
+./methods/m1-2.svg
+./psychiatrists/moviePsychiatrists/mp1-2.svg
+./psychiatrists/p1-2.svg
+./psychiatrists/p5-6.svg
+./psychiatrists/p3-4.svg
+./technolgies/t1-2.svg
