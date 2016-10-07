@@ -32,6 +32,11 @@ Inkscape on Debian GNU/Linux (jessie/stretch)
 
 Ausdrucken geht am besten auf A6 Halbkarton Karten (z.B. aus der Migros Papeterie) in einem Laser Drucker, in meinem Fall ein Brother MFC-9460cdn
 
+
+https://produkte.migros.ch/papeteria-a6-schreibkarten 200.0 g/m²
+https://produkte.migros.ch/papeteria-a6-schreib-und-bastelkarten 250.0 g/m²
+letztere gibt die besseren Karten, aber allenfalls muss man das dem Laser-Drucker sagen damit die Heizschlaufe im Drucker wärmer macht sonst hält der Toner schlecht, oder FotoPapier A6 wäre ev noch besser
+
 Rückseite ist im Ordner: Back
 
 A7 Vorlage gemacht,suboptimal auf MFC-9460cdn: http://psychiatrie-leaks.ch/Shrink-Disorder-Game/ausschneiden.jpg
