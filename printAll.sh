@@ -25,11 +25,11 @@ find ./methods -name "*-*.svg" >>./print.txt
 find ./psychiatrists -name "*-*.svg" >>./print.txt
 find ./technolgies -name "*-*.svg" >>./print.txt
 
-echo put $(cat ./print.txt |wc -l) A6 Cards into your default printer
 
-echo -e "\e[31m"
+echo -e "\e[34mPlease put $(cat ./print.txt |wc -l) A6 Cards \e[31m
+"
 figlet -w 120 -f banner $(cat ./print.txt |wc -l) A6-Cards 
-echo -e "\e[0m"
+echo -e "into your default printer \e[0m"
 
 echo "
 => some printers have issues with that much cards in the manual paper tray, edit this file for this problem
