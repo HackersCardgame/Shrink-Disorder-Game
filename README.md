@@ -3,7 +3,7 @@ Das Problem normaler Tarot Karten ist, dass dort die Technologie- und Methoden-K
 
 MKULTRA ⇔ DSM (zeitliche Entwicklung ab ~1950 / Explosion der "Krankheitsbilder" ~1970) / Donald Ewen Cameron ⇔ Burghölzli Schweiz
 
-### HOWTO Video wie man alle karten in ca. 10 Minuten druckt mit einem einigermassen gscheiten Drucker: https://www.youtube.com/watch?v=L5aITiIZp9U
+### HOWTO Video wie man alle Karten in ca. 10 Minuten gedruckt hat mit einem einigermassen gscheiten Drucker: https://www.youtube.com/watch?v=L5aITiIZp9U
 
  * (klassische) Psychiater
  * Film Psychiater
