@@ -1,8 +1,9 @@
 # Psychiater Quartett / Psychiatrie Quartett
 Das Problem normaler Tarot Karten ist, dass dort die Technologie- und Methoden-Karten fehlen, und kann die Technologie wie der Stimoceiver / OpenBCI / WO2005055579A1 gehackt werden, muss dies in die Gleichung mit einbezogen werden. Tarot wäre somit nur ein Kinderspielzeug aber mit Kill-Premissions welche ca 1% tote Kinder produziert womit as #MKULTRA Ritual-Child-Murder Projekt dann die restlichen 99% erpresst und fremdbestimmt...
 
-MKULTRA ⇔ DSM (zeitliche Entwicklung ab ~1950 / Explosion der "Krankheitsbilder" ~1970)
-Donald Ewen Cameron ⇔ Burghölzli Schweiz
+MKULTRA ⇔ DSM (zeitliche Entwicklung ab ~1950 / Explosion der "Krankheitsbilder" ~1970) / Donald Ewen Cameron ⇔ Burghölzli Schweiz
+
+### HOWTO Video wie man alle karten in ca. 10 Minuten druckt mit einem einigermassen gscheiten Drucker: https://www.youtube.com/watch?v=L5aITiIZp9U
 
  * (klassische) Psychiater
  * Film Psychiater
