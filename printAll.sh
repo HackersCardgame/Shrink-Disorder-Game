@@ -69,11 +69,20 @@ else
     echo not not printing
 fi
 
+echo -n "print on Canon GP501 Paper (y/n)? "
+read answer
+if echo "$answer" | grep -iq "^y"
+then
 
-/usr/bin/inkscape ./back/back.svg &
-sleep 5
-xdotool key ctrl+p
+  #/usr/bin/inkscape ./back/back.svg    &
+  /usr/bin/inkscape ./back/back-canon-GP501.svg &
+  sleep 5
+  xdotool key ctrl+p
 
+else
 
+  /usr/bin/inkscape ./back/back.svg &
+  sleep 5
+  xdotool key ctrl+p
 
-
+fi
