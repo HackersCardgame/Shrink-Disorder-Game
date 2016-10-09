@@ -34,3 +34,6 @@ brauchbar.... und ein DOS SCRIPT... oder POWERshell, yay ich habe die power und 
 
 ☐ PRIO: Card Generator Software
   => EV SVG Library oder die Library von inkskape etc...
+
+☐ karte mit erklärung der logos
+
