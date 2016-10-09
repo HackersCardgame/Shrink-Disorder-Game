@@ -30,5 +30,7 @@ brauchbar.... und ein DOS SCRIPT... oder POWERshell, yay ich habe die power und 
 
 ☐ römer aus astrix und obelix würden sich als weiterer kriegerarchetyp eignen, z.B. da wo alle betrunken nach dem fass mit zaubertrank suchen
 
+☐ Movie Archetyp logo schrottig, weniger zeugs, eindeutigeres logo
 
-
+☐ PRIO: Card Generator Software
+  => EV SVG Library oder die Library von inkskape etc...
