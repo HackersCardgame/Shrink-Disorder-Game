@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9180556"
-     inkscape:cx="107.00275"
-     inkscape:cy="309.62835"
+     inkscape:zoom="1.3852418"
+     inkscape:cx="344.73157"
+     inkscape:cy="168.33038"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -466,7 +466,7 @@
            y="238.49655"
            style="font-size:8px" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara3271">so könnte man z.B. versuchen ein vorsätzlich falsch aufgespieltes Verhaltensmuster wieder zu löschen</flowPara></flowRoot>    <text
+         id="flowPara3271">so könnte man z.B. versuchen, ein vorsätzlich falsch aufgespieltes Verhaltensmuster wieder zu löschen</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="451.18057"
@@ -502,7 +502,10 @@
            y="-41.423153" /></flowRegion><flowPara
          id="flowPara3116" /></flowRoot>    <g
        id="g3873"
-       transform="matrix(0.83023581,0,0,0.83023581,48.69195,123.42632)">
+       transform="matrix(0.83023581,0,0,0.83023581,48.69195,123.42632)"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/a2.png"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-ydpi="375.67999">
       <rect
          ry="11.442533"
          rx="11.442533"
@@ -527,7 +530,10 @@
     </g>
     <g
        id="g3873-3"
-       transform="matrix(0.83023581,0,0,0.83023581,-193.77524,123.55399)">
+       transform="matrix(0.83023581,0,0,0.83023581,-193.77524,123.55399)"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/a1.png"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-ydpi="375.67999">
       <rect
          ry="11.442533"
          rx="11.442533"

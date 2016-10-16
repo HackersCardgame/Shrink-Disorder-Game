@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3852418"
-     inkscape:cx="288.74451"
-     inkscape:cy="169.50477"
+     inkscape:cx="309.21329"
+     inkscape:cy="174.7901"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -229,7 +229,9 @@
            y="238.49655"
            style="font-size:8px" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara3486">Ein analoges Tonband wo man etwas beliebiges wie z.B. 2+2=5 aufzeichen kann, welches endlos läuft und zu bestimten Zeiten über die Schalter der Zeitschalt Uhr automatisch aktivert wird und dann wieder ausschaltet nach z.B. 5 Minuten</flowPara></flowRoot>    <text
+         id="flowPara3486">Ein analoges Tonband wo man etwas beliebiges wie z.B. <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan3060">2+2=5</flowSpan> aufzeichen kann, welches endlos läuft und zu bestimten Zeiten über die Schalter der Zeitschalt Uhr automatisch aktivert wird und dann wieder ausschaltet nach z.B. 5 Minuten</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="35.899933"
@@ -424,8 +426,8 @@
            style="font-size:8px" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara3454">Es können Töne <flowSpan
-   style="-inkscape-font-specification:DS-Digital Bold;font-family:DS-Digital;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-   id="flowSpan3059">digital</flowSpan> aufgezeichnet werden und mit verschiedenen Geschwindigkeit (~Tonhöhe) wieder abgespielt werden,</flowPara></flowRoot>    <text
+   style="font-size:9px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DS-Digital;-inkscape-font-specification:DS-Digital Bold"
+   id="flowSpan3059">digital</flowSpan> aufgezeichnet werden und mit verschiedenen Geschwindigkeit (~Tonhöhe) wieder abgespielt werden</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="278.01831"
@@ -455,8 +457,10 @@
            x="34.65099"
            y="238.49655"
            style="font-size:8px" /></flowRegion><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara3271">Musik machen, aber auch für z.B. Behavioural Sciences wie z.B. das Pawlowscher Hund Experiment</flowPara></flowRoot>    <text
+         style="font-size:7.5px;text-align:justify;text-anchor:start"
+         id="flowPara3271">Musik machen, aber auch für z.B. Behavioural Sciences wie z.B. das &quot;<flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan3077">Pawlowscher Hund&quot; - Experiment</flowSpan></flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="451.18057"
