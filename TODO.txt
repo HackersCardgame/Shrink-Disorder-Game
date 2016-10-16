@@ -84,6 +84,9 @@ dann use-case: es wäre gescheiter wenn gleichaltrige mädchen (im aktiv) das mi
 ☑ the recruit karte in skinnerBOX
 ☑ Methoden / Technologie / Archetype ... karten besser als solche kenntzeichnen
 
+
+☐ Furby Karte, oder Furbies mit Server Karte
+
 ☐ allenfalls über ein gif/jpg/png zum drucken dann wärs auch für windows
 brauchbar.... und ein DOS SCRIPT... oder POWERshell, yay ich habe die power und die macht...
 
