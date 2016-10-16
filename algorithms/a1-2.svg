@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7704837"
-     inkscape:cx="362.53849"
-     inkscape:cy="113.21241"
+     inkscape:zoom="3.9180556"
+     inkscape:cx="107.00275"
+     inkscape:cy="309.62835"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -480,58 +480,6 @@
          id="tspan4746-6"
          x="451.18057"
          y="744.45343" /></text>
-    <rect
-       style="fill:#ff0000;fill-opacity:1;stroke:none"
-       id="rect3952-3"
-       width="22.212404"
-       height="22.212404"
-       x="32.238285"
-       y="714.57867"
-       rx="9.5"
-       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/a1.png"
-       inkscape:export-xdpi="375.67999"
-       inkscape:export-ydpi="375.67999" />
-    <text
-       xml:space="preserve"
-       style="font-size:17.87051201px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="43.344486"
-       y="731.71539"
-       id="text4744-6"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/a1.png"
-       inkscape:export-xdpi="375.67999"
-       inkscape:export-ydpi="375.67999"><tspan
-         sodipodi:role="line"
-         id="tspan4746-7"
-         x="43.344486"
-         y="731.71539"
-         style="font-size:17px;text-align:center;text-anchor:middle">⚙</tspan></text>
-    <rect
-       style="fill:#ff0000;fill-opacity:1;stroke:none"
-       id="rect3952-3-1"
-       width="22.212404"
-       height="22.212404"
-       x="273.79108"
-       y="714.95953"
-       rx="9"
-       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/a2.png"
-       inkscape:export-xdpi="375.67999"
-       inkscape:export-ydpi="375.67999" />
-    <text
-       xml:space="preserve"
-       style="font-size:17.87051201px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="284.89728"
-       y="732.09625"
-       id="text4744-6-2"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/a2.png"
-       inkscape:export-xdpi="375.67999"
-       inkscape:export-ydpi="375.67999"><tspan
-         sodipodi:role="line"
-         id="tspan4746-7-8"
-         x="284.89728"
-         y="732.09625"
-         style="font-size:17px;text-align:center;text-anchor:middle">⚙</tspan></text>
     <image
        y="744.35254"
        x="299.57632"
@@ -552,5 +500,55 @@
            height="437.97235"
            x="-23.481035"
            y="-41.423153" /></flowRegion><flowPara
-         id="flowPara3116" /></flowRoot>  </g>
+         id="flowPara3116" /></flowRoot>    <g
+       id="g3873"
+       transform="matrix(0.83023581,0,0,0.83023581,48.69195,123.42632)">
+      <rect
+         ry="11.442533"
+         rx="11.442533"
+         y="712.01135"
+         x="270.20245"
+         height="27.061747"
+         width="27.061747"
+         id="rect3952-3-7-1-8-6"
+         style="fill:#fda62a;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4744-6-6-2-8-8"
+         y="731.64545"
+         x="283.72827"
+         style="font-size:21.77194595px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:20.71138763px;text-align:center;text-anchor:middle"
+           y="731.64545"
+           x="283.72827"
+           id="tspan4746-7-1-8-6-9"
+           sodipodi:role="line">⟿</tspan></text>
+    </g>
+    <g
+       id="g3873-3"
+       transform="matrix(0.83023581,0,0,0.83023581,-193.77524,123.55399)">
+      <rect
+         ry="11.442533"
+         rx="11.442533"
+         y="712.01135"
+         x="270.20245"
+         height="27.061747"
+         width="27.061747"
+         id="rect3952-3-7-1-8-6-6"
+         style="fill:#fda62a;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4744-6-6-2-8-8-7"
+         y="731.64545"
+         x="283.72827"
+         style="font-size:21.77194595px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:20.71138763px;text-align:center;text-anchor:middle"
+           y="731.64545"
+           x="283.72827"
+           id="tspan4746-7-1-8-6-9-5"
+           sodipodi:role="line">⟿</tspan></text>
+    </g>
+  </g>
 </svg>
