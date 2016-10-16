@@ -51,6 +51,8 @@ Ausdrucken geht am besten auf A6 Halbkarton Karten (z.B. aus der Migros Papeteri
 
 Rückseite ist im Ordner: Back
 
+das Script printAll.sh druckt ein ganzes set, es empfiehlt sich aber zuerst eine doppel-karte mit rückseite selber zu drucken da ich es nur auf (m)einem Drucker ausprobiert habe und bei anderen Druckern auch andere Offset-Werte zu erwarten wären.
+
 Möge dieses Repo unter Creative Commons by-nc-sa stehen + mögen die Lizenzbedingungen für den Fall dass damit Kinder oder Jüngere geschützt werden können auch umgangen werden...
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
