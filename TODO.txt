@@ -168,6 +168,20 @@ dann use-case: es wäre gescheiter wenn gleichaltrige mädchen (im aktiv) das mi
 
 ☐ medienwirksame medien / hollywood karte
 
+☐ echo chamber
+
+☐ us4877027 / 1930 / 1960
+
+☐ active denial system (2010???) und kleinst active denial system
+  mit berechnungen wie klein man das bauen könnte ev mit tunneldioden
 
 
+ My Laptop
+ ⇩    Me with wo2005055579A1 WLAN0 & ( WLAN1 ? )
+      ⇩
+ |    D                o  ⇦ My Neighbour with his cell phone
+ |__ \|/               |    that connects to WLAN1 of my wo2005055579A1
+      |               / \
+     / \
+  
 
