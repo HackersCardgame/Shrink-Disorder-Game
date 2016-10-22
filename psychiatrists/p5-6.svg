@@ -34,9 +34,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9590277"
-     inkscape:cx="265.69219"
-     inkscape:cy="177.36757"
+     inkscape:zoom="1.3852418"
+     inkscape:cx="204.65561"
+     inkscape:cy="172.60344"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -244,7 +244,7 @@
          x="36.857941"
          y="939.25024"
          style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="tspan60822"></tspan><tspan
+         id="tspan60822" /><tspan
          sodipodi:role="line"
          x="36.857941"
          y="948.00024"
@@ -298,7 +298,7 @@
        ry="14"
        inkscape:export-xdpi="375.67999"
        inkscape:export-ydpi="375.67999"
-       inkscape:export-filename="/home/marc/Shrink-Disorder-Game/Technologies/t1.png" />
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/p6.png" />
     <image
        y="722.9469"
        x="273.48581"
@@ -308,7 +308,8 @@
        height="147.35318"
        width="222.798"
        inkscape:export-xdpi="375.67999"
-       inkscape:export-ydpi="375.67999" />
+       inkscape:export-ydpi="375.67999"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/p6.png" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:8.02035522;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3347-5-4-3-6-4-0"
@@ -320,7 +321,7 @@
        ry="9.5179243"
        inkscape:export-xdpi="375.67999"
        inkscape:export-ydpi="375.67999"
-       inkscape:export-filename="/home/marc/Shrink-Disorder-Game/Technologies/t1.png" />
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/p6.png" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:2.96203756;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4383-4-8-7-9"
@@ -332,7 +333,7 @@
        ry="2.9620376"
        inkscape:export-xdpi="375.67999"
        inkscape:export-ydpi="375.67999"
-       inkscape:export-filename="/home/marc/Shrink-Disorder-Game/Technologies/t1.png" />
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/p6.png" />
     <rect
        style="fill:#f80c34;fill-opacity:1;stroke:#000000;stroke-width:2.96659541;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3416-6-1"
@@ -340,14 +341,20 @@
        height="29.081408"
        x="270.02533"
        y="711.6604"
-       rx="12.155893" />
+       rx="12.155893"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/p6.png"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-ydpi="375.67999" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="384.47424"
        y="732.73999"
        id="text4059-5-9"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/p6.png"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-ydpi="375.67999"><tspan
          sodipodi:role="line"
          id="tspan4061-6-6"
          x="384.47424"
@@ -359,7 +366,10 @@
        x="278.97632"
        y="885.82361"
        id="text4071-9-9"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/p6.png"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-ydpi="375.67999"><tspan
          sodipodi:role="line"
          id="tspan4073-3-3"
          x="278.97632"
@@ -371,7 +381,10 @@
        x="278.97632"
        y="895.50024"
        id="text4071-3-5-0"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/p6.png"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-ydpi="375.67999"><tspan
          sodipodi:role="line"
          id="tspan4073-56-2-5"
          x="278.97632"
@@ -385,9 +398,7 @@
          style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan28801"><tspan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="tspan28886">E</tspan> Extraversion:       gemässigt<tspan
-   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="tspan28888"></tspan></tspan><tspan
+   id="tspan28886">E</tspan> Extraversion:       gemässigt</tspan><tspan
          sodipodi:role="line"
          x="278.97632"
          y="913.00024"
@@ -416,7 +427,7 @@
          style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan28809">Wichtigste Errungenschaft(en): <tspan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="tspan28904">Orgon-&quot;Akkumulator&quot;</tspan></tspan><tspan
+   id="tspan7177">Bloom's taxonomy</tspan></tspan><tspan
          sodipodi:role="line"
          x="278.97632"
          y="956.75024"
@@ -659,7 +670,10 @@
     </g>
     <g
        id="g5346-7"
-       transform="translate(124.38569,-671.87641)">
+       transform="translate(124.38569,-671.87641)"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/p6.png"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-ydpi="375.67999">
       <rect
          rx="9.5"
          y="1386.8359"
@@ -20790,7 +20804,10 @@
     </g>
     <g
        id="g60527-4"
-       transform="translate(484.42398,-144.95646)">
+       transform="translate(484.42398,-144.95646)"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/p6.png"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-ydpi="375.67999">
       <path
          d="m -166.76689,1010.1519 c 0,0 -37.05823,0 -37.05823,0 0,0 0,-24.81658 0,-24.81658 0,0 37.05823,0 37.05823,0 0,0 0,24.81658 0,24.81658 z"
          style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
