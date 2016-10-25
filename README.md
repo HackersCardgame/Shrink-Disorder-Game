@@ -15,7 +15,7 @@ MKULTRA ⇔ DSM (zeitliche Entwicklung ab ~1950 / Explosion der "Krankheitsbilde
 
 
 ### Spiele-Idee:
-**you've been owned** bzw **you've been UNowned**
+**you've been owned** bzw **you've been UNowned or freed**
 
 (leider "spielen" einige ältere Herren dies echt und somit wäre ein weiterer Gedanke dahinter auch, dass Kinder rechtzeitig informieren können, falls man ihnen so etwas antun, da sie so zumindest das Wissen über die Existenz solcher Technologien haben)
 
