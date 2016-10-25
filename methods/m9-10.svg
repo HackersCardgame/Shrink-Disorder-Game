@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.75374825"
-     inkscape:cx="501.35276"
-     inkscape:cy="211.09618"
+     inkscape:zoom="1.8062222"
+     inkscape:cx="262.20471"
+     inkscape:cy="186.02362"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="501"
-     inkscape:window-height="398"
-     inkscape:window-x="238"
-     inkscape:window-y="265"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1600"
+     inkscape:window-height="834"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata3055">
     <rdf:RDF>
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -808,7 +808,7 @@
          style="font-size:15.72122192px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:handwriting-draft_free-version;-inkscape-font-specification:handwriting-draft_free-version Bold"
          id="tspan3163-7">REVERSE</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.03894567px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#e6e6e6;stroke:#ffffff;stroke-width:1.03894566999999993px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 327.13863,789.45425 29.11268,0.93812"
        id="path3208"
        inkscape:connector-curvature="0"
@@ -816,7 +816,7 @@
        inkscape:export-xdpi="375.67999"
        inkscape:export-ydpi="375.67999" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.03894567px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#e6e6e6;stroke:#ffffff;stroke-width:1.03894566999999993px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 327.1541,792.26861 29.11268,0.93812"
        id="path3208-5"
        inkscape:connector-curvature="0"
@@ -824,7 +824,7 @@
        inkscape:export-xdpi="375.67999"
        inkscape:export-ydpi="375.67999" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.03894567px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#e6e6e6;stroke:#ffffff;stroke-width:1.03894566999999993px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 327.13987,791.2618 29.11268,0.93812"
        id="path3208-5-3"
        inkscape:connector-curvature="0"
