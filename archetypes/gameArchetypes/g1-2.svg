@@ -34,9 +34,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.69262089"
-     inkscape:cx="528.55186"
-     inkscape:cy="16.945251"
+     inkscape:zoom="1.8062222"
+     inkscape:cx="164.48695"
+     inkscape:cy="152.70788"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -134,7 +134,8 @@
        inkscape:export-filename="/home/marc/Shrink-Disorder-Game/Technologies/t1.png" />
     <g
        id="g12232"
-       transform="translate(-1.0828435,1.4437913)">
+       transform="translate(-1.0828435,1.4437913)"
+       style="opacity:0.87">
       <image
          inkscape:export-ydpi="374.39999"
          inkscape:export-xdpi="374.39999"
@@ -164,7 +165,7 @@
          height="132.60417"
          width="110.21473"
          id="rect3336"
-         style="fill:none;stroke:#1c1c1c;stroke-width:3.99724078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:none;stroke:#1c1c1c;stroke-width:3.99724077999999983;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
     <rect
        style="fill:none;stroke:#000000;stroke-width:8.02035522;stroke-miterlimit:4;stroke-dasharray:none"
