@@ -29,15 +29,13 @@ find ./technolgies -name "*-*.svg" >>./print.txt
 echo -e "\e[34mPlease put $(cat ./print.txt |wc -l) A6 Cards \e[31m
 "
 figlet -w 120 -f banner $(cat ./print.txt |wc -l) A6-Cards 
-echo -e "into your default printer \e[0m"
+echo -e "into your default printer\e[0m some printers have issues with that much cards so\e[34m this script will wait after 10 cards \e[0m "
 
-echo "
-=> some printers have issues with that much cards in the manual paper tray, edit this file for this problem
-
+echo -e "
+=> in the manual paper tray, edit this file for this problem
 => we also suggest to test it first manually, some printers turn the card, some turn them twice, after that the file for the backside
    of the card opens, in that case you have to choose $(cat ./print.txt|wc -l) copies manually after you have
-   put the cards the other direction into the printer
-
+   put the cards the other direction into the printe
 => after pressing enter, dont touch your computer until the cards are all printed
 "
 
@@ -48,7 +46,7 @@ then
 
  /usr/bin/inkscape &
 
-
+counter=0
 
  for i in $(cat ./print.txt)
   do
@@ -63,6 +61,22 @@ then
    xdotool key alt+F4
 
    echo printed $i
+
+   let counter=counter+1 
+   if (( $counter % 10 == 0 )) 
+   then
+     echo -e "\e[34mPlease put the next 10 A6 Cards\e[31m into your DEFAULT PRINTER  \e[0m"
+
+     figlet -f banner 10 A6-Cards
+
+     echo "
+then press enter" 
+
+     read
+
+   else
+     echo "printing next card"
+   fi
   done
 
 else
