@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.9590278"
-     inkscape:cx="276.52357"
+     inkscape:cx="187.44877"
      inkscape:cy="181.3525"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="985"
-     inkscape:window-x="1280"
-     inkscape:window-y="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="834"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3055">
@@ -143,7 +143,8 @@
        width="227.17665"
        inkscape:export-filename="/home/marc/Shrink-Disorder-Game/png/m5.png"
        inkscape:export-xdpi="375.67999"
-       inkscape:export-ydpi="375.67999" />
+       inkscape:export-ydpi="375.67999"
+       style="opacity:0.87" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:8.02035522;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3347-5-4-3-6-5"
@@ -347,7 +348,8 @@
        width="225.03108"
        inkscape:export-filename="/home/marc/Shrink-Disorder-Game/png/m6.png"
        inkscape:export-xdpi="375.67999"
-       inkscape:export-ydpi="375.67999" />
+       inkscape:export-ydpi="375.67999"
+       style="opacity:0.87" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:8.02035522;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3347-5-4-3-6-4-0"
@@ -804,7 +806,7 @@
          style="font-weight:bold;fill:#4d4d4d;-inkscape-font-specification:Sans Bold">רב</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:27.34107208000000000px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6f0000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:27.34107208000000000px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
        x="134.81335"
        y="854.8587"
        id="text3155"
@@ -817,6 +819,6 @@
          id="tspan3157"
          x="134.81335"
          y="854.8587"
-         style="font-size:6.83526802000000000px;font-weight:bold;fill:#6f0000;-inkscape-font-specification:Sans Bold;fill-opacity:1">Schleichwerbung</tspan></text>
+         style="font-size:6.83526802000000000px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Sans Bold;fill-opacity:1">Schleichwerbung</tspan></text>
   </g>
 </svg>
