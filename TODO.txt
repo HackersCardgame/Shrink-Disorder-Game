@@ -138,8 +138,9 @@ brauchbar.... und ein DOS SCRIPT... oder POWERshell, yay ich habe die power und 
   aus eeg daten generiert werden? also dass z.B. der CAD Arbeitsplatz für den lehrling, nicht zwingend (nur) grundfiguren wie kreise, striche, links, rechts 
   das lehrlings hacken möchte sondern dass es für jede kärperhaltung ein spezifisches eeg pattern gibt RX ev sogar TX, oder dass das TX solange abgespielt
   wird, dass das unterbewusstsein das lernt
-☐ Brain-Modem als formulierung nehmen, modem impliziert eine gegenstelle, und oder einen Provider, den Provider den diensteleister in die Pflicht nehmen
+☐ Brain-Modem als formulierung nehmen, modem impliziert eine gegenstelle, und oder einen Provider, den Provider den diensteleister in die Pflicht nehmen, und das brain modem hätte von haus aus irgend eine TR-069 Funktionalität
 ☐ Kerberos / Kerberos lern-karten
+☐ Feld-Herr Archetyp 
 
  My Laptop
  ⇩    Me with wo2005055579A1 WLAN0 & ( WLAN1 ? )
