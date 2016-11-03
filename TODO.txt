@@ -141,6 +141,7 @@ brauchbar.... und ein DOS SCRIPT... oder POWERshell, yay ich habe die power und 
 ☐ Brain-Modem als formulierung nehmen, modem impliziert eine gegenstelle, und oder einen Provider, den Provider den diensteleister in die Pflicht nehmen, und das brain modem hätte von haus aus irgend eine TR-069 Funktionalität
 ☐ Kerberos / Kerberos lern-karten
 ☐ Feld-Herr Archetyp 
+☐ richter.archetyp / scharfrichter archetyp & $ Karte (Bestechung)
 
  My Laptop
  ⇩    Me with wo2005055579A1 WLAN0 & ( WLAN1 ? )
