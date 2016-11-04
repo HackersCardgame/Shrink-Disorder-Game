@@ -10,6 +10,7 @@
 ./archetypes/gameArchetypes/g1-2.svg
 ./archetypes/racism/ra3-ra4.svg
 ./archetypes/racism/ra1-ra2.svg
+./brain/b1-2.svg
 ./methods/m5-6.svg
 ./methods/m15-m16.svg
 ./methods/m13-m14.svg
@@ -37,3 +38,6 @@
 ./technolgies/t3-4.svg
 ./technolgies/t5-6.svg
 ./technolgies/t17-18.svg
+./symbolism/s3-4.svg
+./symbolism/s1-2.svg
+./symbols/s3-4.svg
