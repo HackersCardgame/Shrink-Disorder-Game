@@ -31,10 +31,12 @@ read answer
 
 find ./algorithms -name "*-*.svg" >./print.txt
 find ./archetypes -name "*-*.svg" >>./print.txt
+find ./brain -name "*-*.svg" >>./print.txt
 find ./methods -name "*-*.svg" >>./print.txt
 find ./psychiatrists -name "*-*.svg" >>./print.txt
 find ./technolgies -name "*-*.svg" >>./print.txt
 find ./symbolism -name "*-*.svg" >>./print.txt
+find ./symbols -name "*-*.svg" >>./print.txt
 
 
 echo -e "\e[34mPlease put $(cat ./print.txt |wc -l) A6 Cards \e[31m
