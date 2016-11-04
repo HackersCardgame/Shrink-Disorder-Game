@@ -147,7 +147,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.97951387"
-     inkscape:cx="231.19428"
+     inkscape:cx="53.044684"
      inkscape:cy="205.32472"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -165,7 +165,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -258,7 +258,8 @@
        width="227.95152"
        inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/ra3.png"
        inkscape:export-xdpi="375.67999"
-       inkscape:export-ydpi="375.67999" />
+       inkscape:export-ydpi="375.67999"
+       style="opacity:0.87" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:8.02035522;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3347-5-4-3-6-5"
@@ -447,7 +448,8 @@
        width="222.98166"
        inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/ra4.png"
        inkscape:export-xdpi="375.67999"
-       inkscape:export-ydpi="375.67999" />
+       inkscape:export-ydpi="375.67999"
+       style="opacity:0.87" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:8.02035522;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3347-5-4-3-6-4-0"

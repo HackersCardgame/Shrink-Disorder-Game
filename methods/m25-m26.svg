@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="229.33425"
+     inkscape:cx="230.74846"
      inkscape:cy="175.82971"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -782,7 +782,7 @@
            y="334.21704" /></flowRegion><flowPara
          id="flowPara3155" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:5.93536806px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:5.93536806000000006px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.87"
        x="38.427612"
        y="833.71063"
        id="text3097"
@@ -803,7 +803,7 @@
            id="tspan3105">$</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.93536806px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:5.93536806000000006px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.87"
        x="294.15417"
        y="835.23407"
        id="text3097-3"
@@ -815,6 +815,6 @@
          id="tspan3099-6"
          x="294.15417"
          y="835.23407"
-         style="font-size:118.70736694px;font-weight:bold;-inkscape-font-specification:Sans Bold">§§§</tspan></text>
+         style="font-size:118.70736694000001421px;font-weight:bold;-inkscape-font-specification:Sans Bold">§§§</tspan></text>
   </g>
 </svg>
