@@ -130,13 +130,13 @@ brauchbar.... und ein DOS SCRIPT... oder POWERshell, yay ich habe die power und 
   wird, dass das unterbewusstsein das lernt
 ☐ Brain-Modem als formulierung nehmen, modem impliziert eine gegenstelle, und oder einen Provider, den Provider den diensteleister in die Pflicht nehmen, und das brain modem hätte von haus aus irgend eine TR-069 Funktionalität
 ☐ Kerberos / Kerberos lern-karten
-☐ Feld-Herr Archetyp 
+☑ Feld-Herr Archetyp 
 ☐ Penner/Alufolien "Spinner" Archetyp
 ☑  richter.archetyp / scharfrichter archetyp & $ Karte (Bestechung)
 ☑ Sophie-Scholl-Archetypen Karte
 ☐ http://www.5bn.de/ => konzept der Spuren in diesem video, also so zu sagen ein starterkit an suggestionenen mit dem dann mehr "achievements" ungelockt werden aber defacto ists ein übles marketing konzept
-☐ Design-Pattern
-☐ Sozio-Psychologie Deesign-Pattern
+☑ Design-Pattern
+☑ Sozio-Psychologie Deesign-Pattern
 
  My Laptop
  ⇩    Me with wo2005055579A1 WLAN0 & ( WLAN1 ? )
