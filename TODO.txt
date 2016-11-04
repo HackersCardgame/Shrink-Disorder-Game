@@ -94,16 +94,16 @@ brauchbar.... und ein DOS SCRIPT... oder POWERshell, yay ich habe die power und 
 ☑ Sheldon <=> Scapegoat Karte
 ☑ Sklaven Karte
 ☑ Herrenrasse Karte
-☐ Trauma Based Mindcontrol Karte
+☑ Trauma Based Mindcontrol Karte
 ☐ What the hell effect Karte
 ☐ Pädo Zombi Karte
  ☐ Jesus am Kreuz Karte (a: gehäuchelt b: ernst gemeint c: spambot auf 2 beinen)
 ☐ $ Karte / Geld Karte die man immer dann spielen würde, wenn man eigentlich verloren hat aber (ein) "kaufkräftig(es)" (Arsch) ist
-☐ Moral / Vorbild Karte
+☑ Moral / Vorbild Karte
 ☐ QAM64 / Komplexe Ebene Karte (Kanal: Akkustisch, AluHüte...)
 ☑ Incentives Karte / Zuckerbrot
 ☑ Punishment / Peitschen Karte
-☐ Leiche im Keller Karte / Zigeunerfriedhof unter dem Stadtratsgebäude Karte
+☑ Leiche im Keller Karte / Zigeunerfriedhof unter dem Stadtratsgebäude Karte
 ☐ Häufigkeits Analyse Karte
 ☐ Vektor/Matrix Mathe ähm Häckserei Karte
 ☐ Basis Emotionen Karte
