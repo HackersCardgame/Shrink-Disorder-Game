@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3852418"
-     inkscape:cx="317.52807"
+     inkscape:cx="318.97186"
      inkscape:cy="162.34824"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -391,17 +391,17 @@
            x="34.65099"
            y="238.49655"
            style="font-size:8px" /></flowRegion><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara3237">Quadrophonie / Ambisonics (1970) <flowSpan
+         style="text-align:justify;text-anchor:start;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara3237">Quadrophonie / Ambisonics (1970) z.B. in der Wohnung <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan3054">z.B. in der Wohnung einbetoniert</flowSpan>, führt dazu dass das Gehirn es authentisch wahrnimmt, 1990 Elektronik:</flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
+   id="flowSpan3055">einbetoniert</flowSpan>, führt dazu dass das Gehirn es authentisch wahrnimmt, 1990 Elektronik:</flowPara><flowPara
+         style="text-align:justify;text-anchor:start;font-weight:normal;-inkscape-font-specification:Sans"
          id="flowPara3448">2x Gravis Ultrasound Stereo</flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
+         style="text-align:justify;text-anchor:start;font-weight:normal;-inkscape-font-specification:Sans"
          id="flowPara3450">2x Sound_Blaster Stereo oder </flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
+         style="text-align:justify;text-anchor:start;font-weight:normal;-inkscape-font-specification:Sans"
          id="flowPara3452">4x LPT &amp;&amp; JDAC / CENT_DAC</flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
+         style="text-align:justify;text-anchor:start;font-weight:normal;-inkscape-font-specification:Sans"
          id="flowPara3454" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
