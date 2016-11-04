@@ -19,6 +19,16 @@ echo "
 
 "
 
+echo -e "\e[34m"
+
+figlet -f banner WARNING!!!
+echo -e "\e[31mmy printer-firmware seems to hate this cards, even it has no route to the internet
+
+\e[0mplease press [enter] to continue
+"
+read answer
+
+
 find ./algorithms -name "*-*.svg" >./print.txt
 find ./archetypes -name "*-*.svg" >>./print.txt
 find ./methods -name "*-*.svg" >>./print.txt
