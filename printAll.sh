@@ -68,6 +68,7 @@ counter=0
 
  for i in $(cat ./print.txt)
   do
+ 
 
    /usr/bin/inkscape $i &
 
