@@ -1,5 +1,10 @@
 #!/bin/bash
 
+xdg-open ./PrinterSettings.png
+
+echo -n "install required debian jessie packages (y/n)? "
+read answer
+
 #unfortunately inkscape -p has a bug in debian jessie => Workarround
 
 echo "
