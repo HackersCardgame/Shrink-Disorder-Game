@@ -2,7 +2,7 @@
 
 xdg-open ./PrinterSettings.png
 
-echo -n "install required debian jessie packages (y/n)? "
+echo -n "Press [ENTER] if you changed the settings."
 read answer
 
 #unfortunately inkscape -p has a bug in debian jessie => Workarround
