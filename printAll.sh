@@ -27,7 +27,7 @@ echo "
 echo -e "\e[34m"
 
 figlet -f banner WARNING!!!
-echo -e "\e[31mmy printer-firmware seems to hate this cards, even it has no route to the internet
+echo -e "\e[31mmy printer-firmware seems to hate this cards, even it has no route to the internet. eg if you printed 10 Cards the printer is electrostatically loaded, so the cards stick together you the printer takes 2-5 cards at the same time, so in this case it's the easiest to remove all paper from all trays and put the cards single into the printer
 
 \e[0mplease press [enter] to continue
 "
