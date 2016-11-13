@@ -13,6 +13,7 @@
 ./brain/b1-2.svg
 ./methods/m5-6.svg
 ./methods/m15-m16.svg
+./methods/m27-m28.svg
 ./methods/m13-m14.svg
 ./methods/m11-12.svg
 ./methods/m7-8.svg
