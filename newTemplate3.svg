@@ -44,10 +44,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="205.43417"
-     inkscape:cy="150.23361"
+     inkscape:cx="82.751147"
+     inkscape:cy="224.44452"
      inkscape:document-units="px"
-     inkscape:current-layer="layer17"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,7 +91,7 @@
        inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t15.png" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      transform="translate(0,0.00278321)"
      id="g7265"
      inkscape:groupmode="layer"
@@ -212,7 +212,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="default"
        id="text7285"
@@ -251,7 +251,7 @@
     </text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="static-text-shrink"
      id="g12086"
      inkscape:groupmode="layer">
@@ -314,15 +314,16 @@
     <text
        sodipodi:linespacing="125%"
        id="title"
-       y="48"
+       y="52.5378"
        x="150.33174"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        xml:space="preserve"><tspan
-         style="font-size:12px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Sans Bold"
-         y="48"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:DS-Digital;-inkscape-font-specification:DS-Digital"
+         y="52.5378"
          x="150.33174"
          id="tspan5428"
-         sodipodi:role="line">SkinnerBOX</tspan></text>
+         sodipodi:role="line"
+         dy="0">SkinnerBOX</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="useCasesValue"
@@ -445,17 +446,17 @@
            style="text-align:justify;text-anchor:start"
            ry="0" /></flowRegion><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7831"></flowPara><flowPara
+         id="flowPara7831" /><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara8130"></flowPara><flowPara
+         id="flowPara8130" /><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara8132"></flowPara><flowPara
+         id="flowPara8132" /><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara8134"></flowPara><flowPara
+         id="flowPara8134" /><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara8136"></flowPara><flowPara
+         id="flowPara8136" /><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara8138"></flowPara><flowPara
+         id="flowPara8138" /><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara8140">Ödipus-Komplex, &quot;Untersuchungen&quot; mit Kokain</flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
@@ -531,7 +532,7 @@
            height="8.559432"
            x="31.384584"
            y="208.27953" /></flowRegion><flowPara
-         id="flowPara7628"></flowPara></flowRoot>    <flowRoot
+         id="flowPara7628" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7630"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -542,7 +543,7 @@
            height="29.672699"
            x="38.802757"
            y="213.98581" /></flowRegion><flowPara
-         id="flowPara7636"></flowPara></flowRoot>  </g>
+         id="flowPara7636" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
@@ -581,7 +582,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="algorithm"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,0.00278321)">
     <g
        style="display:inline;enable-background:new"
@@ -686,7 +687,7 @@
            sodipodi:cy="46.528439"
            sodipodi:rx="6.4594831"
            sodipodi:ry="6.4594831"
-           d="m 293.8086,46.528439 a 6.4594831,6.4594831 0 1 1 -12.91896,0 6.4594831,6.4594831 0 1 1 12.91896,0 z"
+           d="m 293.8086,46.528439 c 0,3.567474 -2.892,6.459483 -6.45948,6.459483 -3.56747,0 -6.45948,-2.892009 -6.45948,-6.459483 0,-3.567474 2.89201,-6.459484 6.45948,-6.459484 3.56748,0 6.45948,2.89201 6.45948,6.459484 z"
            transform="matrix(1.0506767,0,0,1.0506767,-612.02934,451.68683)" />
         <path
            style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -703,7 +704,7 @@
            sodipodi:cy="46.528439"
            sodipodi:rx="6.4594831"
            sodipodi:ry="6.4594831"
-           d="m 293.8086,46.528439 a 6.4594831,6.4594831 0 1 1 -12.91896,0 6.4594831,6.4594831 0 1 1 12.91896,0 z"
+           d="m 293.8086,46.528439 c 0,3.567474 -2.892,6.459483 -6.45948,6.459483 -3.56747,0 -6.45948,-2.892009 -6.45948,-6.459483 0,-3.567474 2.89201,-6.459484 6.45948,-6.459484 3.56748,0 6.45948,2.89201 6.45948,6.459484 z"
            transform="matrix(0.20437109,0,0,0.20437109,-370.98299,488.90526)" />
         <path
            sodipodi:type="arc"
@@ -713,7 +714,7 @@
            sodipodi:cy="46.528439"
            sodipodi:rx="6.4594831"
            sodipodi:ry="6.4594831"
-           d="m 293.8086,46.528439 a 6.4594831,6.4594831 0 1 1 -12.91896,0 6.4594831,6.4594831 0 1 1 12.91896,0 z"
+           d="m 293.8086,46.528439 c 0,3.567474 -2.892,6.459483 -6.45948,6.459483 -3.56747,0 -6.45948,-2.892009 -6.45948,-6.459483 0,-3.567474 2.89201,-6.459484 6.45948,-6.459484 3.56748,0 6.45948,2.89201 6.45948,6.459484 z"
            transform="matrix(0.20437109,0,0,0.20437109,-366.58893,488.91528)" />
       </g>
     </g>
@@ -722,7 +723,7 @@
      inkscape:groupmode="layer"
      id="layer20"
      inkscape:label="genericArchetype1"
-     style="display:inline">
+     style="display:none">
     <g
        style="display:inline;enable-background:new"
        id="g15244"
