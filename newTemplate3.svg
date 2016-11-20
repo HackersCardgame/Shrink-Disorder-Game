@@ -43,11 +43,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.9566847"
-     inkscape:cx="69.336792"
-     inkscape:cy="308.84808"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-6.0340564"
+     inkscape:cy="243.31143"
      inkscape:document-units="px"
-     inkscape:current-layer="g3288-2"
+     inkscape:current-layer="layer9"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
@@ -1779,7 +1779,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="psychiatrist"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,0.00278321)">
     <g
        style="display:inline;enable-background:new"
@@ -1829,44 +1829,36 @@
            height="22.212404"
            width="22.212404"
            id="rect3952-3-5-2-8-6-9"
-           style="fill:#0000ff;fill-opacity:1;stroke:none"
+           style="fill:#000080;fill-opacity:1;stroke:none"
            ry="9.5" />
         <text
            sodipodi:linespacing="125%"
            id="text5245-0-3-3-1"
-           y="1051.5188"
-           x="474.62692"
-           style="font-size:18.95411109999999866px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+           y="1050.3568"
+           x="476.17783"
+           style="font-size:15.02762508px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
            xml:space="preserve"
-           inkscape:transform-center-x="5.1253649"
-           inkscape:transform-center-y="-4.8457445"><tspan
-             y="1051.5188"
-             x="474.62692"
+           inkscape:transform-center-x="4.0636058"
+           inkscape:transform-center-y="-3.8418947"><tspan
+             y="1050.3568"
+             x="476.17783"
              id="tspan5247-4-5-6-2"
              sodipodi:role="line"
              style="fill:#ffffff">📺</tspan></text>
         <text
            sodipodi:linespacing="125%"
            id="text4744-6-3-1-3-7-6"
-           y="1049.7183"
-           x="482.79776"
-           style="font-size:10.78491592px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+           y="1048.9292"
+           x="482.65601"
+           style="font-size:8.55074024px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00112b;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
            xml:space="preserve"><tspan
-             style="font-size:10.25955868px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Symbola;-inkscape-font-specification:Symbola Bold"
-             y="1049.7183"
-             x="482.79776"
+             style="font-size:8.1342144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#00112b;font-family:Symbola;-inkscape-font-specification:Symbola Bold"
+             y="1048.9292"
+             x="482.65601"
              id="tspan4746-7-5-5-8-5-0"
              sodipodi:role="line">Ψ</tspan></text>
       </g>
     </g>
-    <rect
-       style="fill:#cccccc;fill-opacity:1;stroke:none"
-       id="rect7521"
-       width="36.816677"
-       height="80.85231"
-       x="466.34457"
-       y="21.927864"
-       transform="translate(0,680.31531)" />
   </g>
   <g
      inkscape:groupmode="layer"
