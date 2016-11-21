@@ -14,6 +14,12 @@ MKULTRA ⇔ DSM (zeitliche Entwicklung ab ~1950 / Explosion der "Krankheitsbilde
  * sonstige häufige Archetypen in Filmen
 
 
+## QuickStart:
+<a href="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/HOWTO/HOWTO.png"><img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/HOWTO/HOWTO.png" width=400></a>
+* Vorlage runterladen: <a href="https://github.com/braindef/Shrink-Disorder-Game/blob/master/HOWTO/InkscapeVorlageTarot.svg">https://github.com/braindef/Shrink-Disorder-Game/blob/master/HOWTO/InkscapeVorlageTarot.svg</a>
+* <a href="https://inkscape.org/de/">Inkscape</a> herunterladen und installieren
+* Vorlage öffnen
+
 ### Spiele-Idee:
 **you've been owned** bzw **you've been UNowned or freed**
 
