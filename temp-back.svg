@@ -15,7 +15,7 @@
    id="svg11072"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="temp.svg">
+   sodipodi:docname="temp-back.svg">
   <defs
      id="defs11074" />
   <sodipodi:namedview
@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="165.27159"
-     inkscape:cy="138.71683"
+     inkscape:cx="271.60922"
+     inkscape:cy="202.36895"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer19"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
@@ -52,7 +52,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-680.31491)">
+     transform="translate(0,-680.31491)"
+     style="display:inline">
     <g
        id="g11556"
        transform="translate(-17.009574,485.40492)">
@@ -575,9 +576,16 @@
          style="fill:none;stroke:#ffffff;display:inline;enable-background:new"
          ry="9.5" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer19"
+     inkscape:label="Layer"
+     style="display:none">
     <g
+       style="display:inline"
        id="g16296"
-       transform="translate(1.418997,-1.0236368)">
+       transform="translate(1.418997,-681.33855)">
       <rect
          ry="14"
          rx="14"
@@ -644,8 +652,9 @@
            sodipodi:role="line">C O E X I S T</tspan></text>
     </g>
     <g
+       style="display:inline"
        id="g16296-8"
-       transform="translate(242.99043,-1.0236368)">
+       transform="translate(242.99043,-681.33855)">
       <rect
          ry="14"
          rx="14"

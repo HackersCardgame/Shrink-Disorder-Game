@@ -47,7 +47,7 @@
      inkscape:cx="154.96079"
      inkscape:cy="161.85077"
      inkscape:document-units="px"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer18"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
@@ -76,7 +76,7 @@
      inkscape:groupmode="layer"
      id="framework"
      transform="translate(0,0.00278321)"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:#afdde9;fill-opacity:1"
        id="backLeft"
@@ -127,7 +127,7 @@
        inkscape:export-ydpi="375.67999" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="picture-shrink"
      id="g15969"
      inkscape:groupmode="layer">
@@ -145,9 +145,9 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Frame"
-     style="display:inline">
+     style="display:none">
     <rect
-       style="fill:none;stroke:#000000;stroke-width:8.02035522;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:8.02000046;stroke-miterlimit:4;stroke-dasharray:none"
        id="frameLeft"
        width="230"
        height="320"
@@ -160,7 +160,7 @@
        inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t15.png" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="inner-frame"
      id="g16604"
      inkscape:groupmode="layer">
@@ -193,7 +193,7 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="header-blue"
-     style="display:inline">
+     style="display:none">
     <rect
        ry="12.155893"
        style="fill:#00aa88;stroke:#000000;stroke-width:2.96659541;stroke-miterlimit:4;stroke-dasharray:none"
@@ -286,7 +286,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text-shrink"
      id="g12086"
      inkscape:groupmode="layer">
@@ -409,7 +409,7 @@
   </g>
   <g
      transform="translate(0,0.00278321)"
-     style="display:inline"
+     style="display:none"
      inkscape:label="text-shrink"
      id="g7411"
      inkscape:groupmode="layer">
@@ -1808,7 +1808,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="psychiatrist"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,0.00278321)">
     <g
        style="display:inline;enable-background:new"
@@ -1961,7 +1961,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="symbol"
-     style="display:inline">
+     style="display:none">
     <rect
        ry="9.5"
        style="fill:none;stroke:#ffffff;display:inline;enable-background:new"
@@ -1979,9 +1979,9 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="Flag"
-     style="display:inline">
+     style="display:none">
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:4.36387872999999971;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:4.36387873;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect8612"
        width="38.332275"
        height="26.740036"
@@ -2023,7 +2023,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="flags"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,0.00278321)">
     <path
        d="m 400.59491,-349.39082 c 0,0 0,12.3236 0,12.3236 0,0 -18.5274,0 -18.5274,0 0,0 0,12.4913 0,12.4913 0,0 37.05502,0 37.05502,0 0,0 0,-24.8149 0,-24.8149 0,0 -18.52762,0 -18.52762,0 z"
@@ -23453,7 +23453,7 @@
      inkscape:groupmode="layer"
      id="layer18"
      inkscape:label="back"
-     style="display:none">
+     style="display:inline">
     <rect
        ry="14"
        rx="14"
@@ -23462,22 +23462,22 @@
        height="342.4819"
        width="252.92386"
        id="rect16534"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000100;stroke-width:0.51700002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="opacity:0.71929824;fill:#ffffff;fill-opacity:1;stroke:#000100;stroke-width:0.51700002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <text
        xml:space="preserve"
-       style="font-size:9.79918957px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="140.36842"
-       y="329.22659"
+       style="font-size:8.39781952000000054px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="140.31573"
+       y="328.45673"
        id="text11041"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="143.74342"
-         y="329.22659"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0000ff;font-family:Ricasso;-inkscape-font-specification:Ricasso"
+         x="143.20808"
+         y="328.45673"
+         style="font-size:7.71292113999999973px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Ricasso;-inkscape-font-specification:Ricasso"
          id="tspan16647">for generic upstream Tarots </tspan></text>
     <image
-       y="80.723114"
-       x="26.276493"
+       y="101.49141"
+       x="42.539948"
        id="image16578"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+MAAALoCAYAAAATNCSnAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzs3X+UFPWdL/x3V3dXdc8MSB+S4EoUPIR4ow9XxtzkJt4bg2z2qnnIZGQ3iWt2jRCR50pYDrJ6
@@ -30937,11 +30937,11 @@ TIwDAABAYmIcAAAAEhPjAAAAkJgYBwAAgMTEOAAAACQmxgEAACAxMQ4AAACJiXEAAABITIwDAABA
 YmIcAAAAEhPjAAAAkJgYBwAAgMTEOAAAACQmxgEAACAxMQ4AAACJiXEAAABITIwDAABAYmIcAAAA
 EhPjAAAAkJgYBwAAgMTEOAAAACQmxgEAACCx/w8/27mGPFF+KgAAAABJRU5ErkJggg==
 "
-       height="170.07092"
-       width="227.44701" />
+       height="145.7493"
+       width="194.92009" />
     <image
-       y="181.5266"
-       x="221.79588"
+       y="187.87909"
+       x="210.09836"
        id="image16633"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAACICAYAAAD+piWTAAAABHNCSVQICAgIfAhkiAAAC3FJREFU
 eJztXc1u4sgWPsZOSBATzSgKGqO7ubsoi0631I8wm3kE5pnmOeJHmM28wc1VgAXKrjctiHqUVpRB
@@ -30997,11 +30997,11 @@ xWS+FILXATITX/k9er7DKO7r+x27ISotQpEaL0l46A3v24OMVlEu8MZo1pc65EOCdk7DWqphD9AW
 FiXZh5egZFMyJK9CoCsK4Nb95G8ciWFZ7qSTn06LddJZ7qrhp4iNszU2CntrRPWgt2YygKPI0sq8
 Tki1uYAIrNgDHdVmeu93H/EPZo7rEE3kqrwAAAAASUVORK5CYII=
 "
-       height="36.209599"
-       width="25.575138" />
+       height="31.031309"
+       width="21.917669" />
     <image
-       y="183.6474"
-       x="33.355473"
+       y="189.69662"
+       x="48.606571"
        id="image16644"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAACICAYAAAD+piWTAAAABHNCSVQICAgIfAhkiAAACaZJREFU
 eJztnc9u40YSh3/NaMbCjGBb5ugUBAGCAMkpk01eYYG8ifMAeY3dB7DeZC7zBtFKvuwGzmWxyInD
@@ -31049,31 +31049,31 @@ qRO7y/+P9JRF71btItGgYkm6Yc4z9mhpyrNA3FGNwLoF6PFStpUvn+lOl4Xns6Y4wqYcfFi9QAzY
 aYKFZem8GuPYrJdACE7jovqmsnchMdB8LnGIsZShmiD2F/G4WNv70IEas238Rx1eVF97BwuCGec7
 BUQJG3vsA1tBUWtEE/8H96Z9TZI7oeYAAAAASUVORK5CYII=
 "
-       height="32.481384"
-       width="24.122202" />
+       height="27.836262"
+       width="20.672516" />
     <text
        xml:space="preserve"
-       style="font-size:6.54294634px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
-       x="139.59106"
-       y="200.91943"
+       style="font-size:5.60724783px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+       x="139.64955"
+       y="204.49861"
        id="text11041-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan11043-2"
-         x="139.59106"
-         y="200.91943"
-         style="font-size:13.08589268px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Ricasso;-inkscape-font-specification:Ricasso Bold">C o e X I s T</tspan></text>
+         x="139.64955"
+         y="204.49861"
+         style="font-size:11.21449566px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Ricasso;-inkscape-font-specification:Ricasso Bold">C o e X I s T</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text16685"
-       y="59.226593"
-       x="140.36842"
-       style="font-size:9.79918957px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       y="317.06909"
+       x="140.31573"
+       style="font-size:8.39781952px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        xml:space="preserve"><tspan
          id="tspan16689"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#214478;font-family:Rubik One;-inkscape-font-specification:Rubik One Bold"
-         y="59.226593"
-         x="140.36842"
+         style="font-size:27.42371941px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#214478;font-family:Rubik One;-inkscape-font-specification:Rubik One Bold"
+         y="317.06909"
+         x="140.31573"
          sodipodi:role="line">Addon Cards</tspan></text>
   </g>
 </svg>
