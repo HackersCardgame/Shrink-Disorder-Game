@@ -5,7 +5,7 @@ The problem with normal Tarot is, that it lacks Technology, Method and Algorithm
 MKULTRA: ~1950 ⇔ DSM: explosion of the number of Mental Diseases ~1970 / Donald Ewen Cameron ⇔ Burghölzli Schweiz
 
 ### QuickStart / HOWTO to create a complete card deck: https://www.youtube.com/watch?v=L5aITiIZp9U (Just run the ./printAll.sh)
-=> you need a for example Debian Linux Jessie, you can also boot from a USB3.0 Stick, ask the Nerd/Sheldon/Geek in your social network he was trained to help you
+you need for example a Debian Linux Jessie, you can also boot it from a USB3.0 Stick, ask the local Nerd/Sheldon/Geek in your social network, he was trained to help you
 
 
  * (Classical) Psychiatrists Cards
